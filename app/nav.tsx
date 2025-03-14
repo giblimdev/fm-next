@@ -17,7 +17,7 @@ function Nav() {
       <Accordion type="single" collapsible>
         {/* Emulation Section */}
         <AccordionItem value="emulation">
-          <AccordionTrigger>
+          <AccordionTrigger className="text-lg">
            
               Emulation
          
@@ -35,7 +35,7 @@ function Nav() {
 
         {/* L'Arche Royal Section */}
         <AccordionItem value="arche-royal">
-          <AccordionTrigger>L'Arche Royal</AccordionTrigger>
+          <AccordionTrigger className="text-lg">L'Arche Royal</AccordionTrigger>
           <AccordionContent>
             {listA.map((item, index) => (
               <p key={index}>
@@ -49,7 +49,7 @@ function Nav() {
 
         {/* La Marque Section */}
         <AccordionItem value="marque">
-          <AccordionTrigger>La Marque</AccordionTrigger>
+          <AccordionTrigger className="text-lg">La Marque</AccordionTrigger>
           <AccordionContent>
             {listMarque.map((item, index) => (
               <p key={index}>
@@ -63,7 +63,7 @@ function Nav() {
 
         {/* Les Nautoniers Section */}
         <AccordionItem value="nautoniers">
-          <AccordionTrigger>Les Nautoniers</AccordionTrigger>
+          <AccordionTrigger className="text-lg">Les Nautoniers</AccordionTrigger>
           <AccordionContent>
             {listNar.map((item, index) => (
               <p key={index}>
