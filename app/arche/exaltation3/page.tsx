@@ -1,4 +1,4 @@
-import NavArche from '@/app/NavArche'
+import NavArche from '@/components/nav/NavArche'
 import React from 'react'
 
 function exaltation2() {

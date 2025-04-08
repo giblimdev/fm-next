@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import NavEmul from "@/app/NavEmul";
+import NavEmul from "@/components/nav/NavEmul";
 function page() {
   return (
     <div>

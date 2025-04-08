@@ -1,9 +1,9 @@
 import Link from "next/link";
 import React from "react";
-import { listEmul } from "../lib/ListEmul";
-import { listA } from "../lib/ListArche";
-import { listMarque } from "../lib/ListMarque";
-import { listNar } from "../lib/ListNar";
+import { listEmul } from "../../lib/ListEmul";
+import { listA } from "../../lib/ListArche";
+import { listMarque } from "../../lib/ListMarque";
+import { listNar } from "../../lib/ListNar";
 import {
   Accordion,
   AccordionContent,

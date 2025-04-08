@@ -1,4 +1,4 @@
-import NavMarque from "@/app/NavMarque";
+import NavMarque from "@/components/nav/NavMarque";
 import React from "react";
 
 function page() {

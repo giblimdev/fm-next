@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import NavNar from "@/app/NavNar";
+import NavNar from "@/components/nav/NavNar";
 function page() {
   return (
     <div>

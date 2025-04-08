@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import NavMarque from "@/app/NavMarque";
+import NavMarque from "@/components/nav/NavMarque";
 function page() {
   return (
     <div>

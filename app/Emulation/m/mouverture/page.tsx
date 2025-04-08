@@ -1,4 +1,4 @@
-import NavEmul from '@/app/NavEmul'
+import NavEmul from '@/components/nav/NavEmul'
 import React from 'react'
 
 function page() {

@@ -1,4 +1,4 @@
-import NavNar from "@/app/NavNar";
+import NavNar from "@/components/nav/NavNar";
 import React from "react";
 
 function page() {
