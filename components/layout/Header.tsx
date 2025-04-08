@@ -1,70 +1,47 @@
+//@/components/layout/Header.tsx
 "use client";
 
 import Link from "next/link";
 import Image from "next/image";
+import NavHeader from "./NavHeader";
+import UserButton from "./UserButton"; // Importez le composant UserButton
 
 function Header() {
   return (
-    <header className="bg-gradient-to-r from-blue-500 to-blue-600 shadow-lg">
-      <div className="container mx-auto flex justify-between items-center p-4">
+    <div className="fixed top-0 left-0 w-full z-50">
+    <header className="bg-white shadow-lg sticky top-0 z-50">
+      <div className="container mx-auto px-3 py-3 md:py-3 flex justify-between">
         {/* Logo GLNF */}
         <div className="hover:scale-105 transition-transform duration-300">
-          <Link href="/">
+          <Link href="/" className="align-middle">
             <Image
-              src="/téléchargement.jpeg"
+              src="/glnf.jpg"
               alt="logo GLNF"
-              width={100}
-              height={100}
-              className="rounded-lg shadow-md"
+              width={50}
+              height={50}
+              className="rounded-full shadow-md mr-2"
             />
           </Link>
         </div>
 
-        {/* Navigation Links */}
-        <nav className="flex items-center space-x-6">
-          <Link
-            href="/"
-            className="text-white hover:text-blue-100 font-semibold text-lg transition-colors duration-300"
-          >
-            Accueil
-          </Link>
-          <Link
-            href="/rituels"
-            className="text-white hover:text-blue-100 font-semibold text-lg transition-colors duration-300"
-          >
-            Rituels
-          </Link>
-          <Link
-            href="/frame"
-            className="text-white hover:text-blue-100 font-semibold text-lg transition-colors duration-300"
-          >
-            Apprentissage
-          </Link>
-          <Link
-            href="/"
-            className="text-white hover:text-blue-100 font-semibold text-lg transition-colors duration-300"
-          >
-            Obtenir un accès
-          </Link>
-        </nav>
-
-        {/* Connexion Button and Logo GLMFR */}
-        <div className="flex items-center space-x-6">
-          <button className="bg-white text-blue-600 font-semibold py-2 px-4 rounded-lg hover:bg-blue-100 transition-colors duration-300 shadow-md">
-            <Link href="/">Connexion</Link>
-          </button>
-          <div className="hover:scale-105 transition-transform duration-300">
+        {/* Navigation */}
+          <NavHeader />
+        {/* User Button  */}
+        <UserButton /> 
+        {/*Logo GLMFR */}
+        
+          <div className="hover:scale-105 transition-transform duration-300 opacity-70">
             <Image
               src="/Logo-Grande-Loge-de-Marque-de-France-Reunie.png"
               alt="logo GLMFR"
-              width={120}
-              height={120}
-              className="rounded-lg shadow-md"
+              width={60}
+              height={60}
+              className="rounded-full shadow-md"
             />
           </div>
         </div>
-      </div>
-    </header>
+      </header>
+    </div>
   );
 }
 

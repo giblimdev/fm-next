@@ -1,6 +1,6 @@
 // app/rituels/layout.tsx
 import React, { ReactNode } from 'react';
-import Nav from '../../components/layout/nav';
+import Nav from '../../components/layout/NavSide';
 
 interface RituelsLayoutProps {
   children: ReactNode;

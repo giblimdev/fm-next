@@ -66,7 +66,7 @@ export default function Home() {
   return (
     <div className="min-h-screen py-10">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
-        <h1 className="text-4xl font-bold tracking-tight text-center mb-8">Découvrez nos livres</h1>
+        <h1 className="text-4xl font-bold tracking-tight text-center mb-8">Découvrez Les rituels</h1>
         <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {products.map((product) => (
             <Link key={product.id} href={product.link} className="block">

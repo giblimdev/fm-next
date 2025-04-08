@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import Header from "../components/layout/Header";
-import Nav from "../components/layout/nav";
+import Nav from "../components/layout/NavSide";
 const geistSans = Geist({
   variable: "--font-geist-sans",
   subsets: ["latin"],
@@ -29,13 +29,14 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        <div className="fixed top-0 left-0 w-full z-50">
-<Header/>
-</div>
-  <div className="md:flex justify-between items-center m-5 mt-36">
-      <div className="h-screen items-center align-middle m-5">{children}</div>
-  </div> 
-      
+        <div>
+          <Header />
+        </div>
+        <div className="md:flex justify-between items-center m-5 mt-12">
+          <div className="flex-grow items-center align-middle m-5">
+            {children}
+          </div>
+        </div>
       </body>
     </html>
   );
