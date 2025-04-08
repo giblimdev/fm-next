@@ -1,0 +1,115 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = "file:./dev.db"
+}
+
+model User {
+  id            String      @id @default(uuid())
+  email         String      @unique
+  password_hash String
+  pseudo        String
+  role          Role        @default(user)
+  first_name    String?
+  last_name     String?
+  logeName      String?
+  logeNumber    String?
+  avatatar      String?
+  phone         String?
+  accessibleRituals UserRitual[]
+  studytext     Studytext[]
+  articles      Article[]
+  comments      Comment[]
+  createdAt     DateTime    @default(now())
+  updatedAt     DateTime    @updatedAt
+}
+
+model Studytext {
+  id          String      @id @default(uuid())
+  title       String
+  userId      String
+  content     String
+  User User[]
+}
+
+model Article {
+  id          String      @id @default(uuid())
+  title       String
+  userId      String
+  comments    Comment[]
+  status      Status      @default(draft)
+  description String?
+  image       String?
+  content     String
+  tags        Tag[]
+  categories  Category[]
+  user        User        @relation(fields: [userId], references: [id], onDelete: Cascade)
+  createdAt   DateTime    @default(now())
+  updatedAt   DateTime    @updatedAt
+}
+
+model Category {
+  id        String      @id @default(uuid())
+  name      String
+  articles  Article[]
+  order     Int
+  createdAt DateTime    @default(now())
+  updatedAt DateTime    @updatedAt
+}
+
+model Tag {
+  id        String      @id @default(uuid())
+  name      String
+  order     Int
+  articles  Article[]
+  createdAt DateTime    @default(now())
+  updatedAt DateTime    @updatedAt
+}
+
+model Comment {
+  id        String      @id @default(uuid())
+  content   String
+  user      User        @relation(fields: [userId], references: [id], onDelete: Cascade)
+  userId    String
+  article   Article     @relation(fields: [articleId], references: [id], onDelete: Cascade)
+  articleId String
+  createdAt DateTime    @default(now())
+  updatedAt DateTime    @updatedAt
+}
+
+model Ritual {
+  id          String      @id @default(uuid())
+  title       String
+  file_path   String
+  rites       String
+  grade       String
+  image       String
+  description String?
+  creatorId   String // Renamed userId to creatorId for clarity
+  users       UserRitual[]
+  createdAt   DateTime    @default(now())
+  updatedAt   DateTime    @updatedAt
+}
+
+model UserRitual {
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  userId    String
+  ritual    Ritual   @relation(fields: [ritualId], references: [id], onDelete: Cascade)
+  ritualId  String
+  @@id([userId, ritualId])
+  @@map("user_rituals")
+}
+
+enum Status {
+  draft
+  published
+  archived
+}
+
+enum Role {
+  admin
+  user
+}
