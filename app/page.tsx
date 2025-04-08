@@ -1,13 +1,13 @@
 import Image from "next/image";
+import Link from "next/link";
 
 export default function Home() {
   return (
     <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
-         landing Page
-
-
-
-
+<Link href={"/"}><Image src='/public/emul-app.png' alt='emul-app' /></Link>
+<Link href={"/"}><Image src='/public/emul-cp.png' alt='emul-cp' /></Link>
+<Link href={"/"}><Image src='/public/emul-m.png' alt='emul-M' /></Link>
+<Link href={"/"}><Image src='/public/arche.png' alt='arche' /></Link>
 
         </div>
   );
