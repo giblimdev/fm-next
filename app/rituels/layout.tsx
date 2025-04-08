@@ -1,3 +1,4 @@
+// app/rituels/layout.tsx
 import React, { ReactNode } from 'react';
 import Nav from '../../components/layout/nav';
 
@@ -7,15 +8,16 @@ interface RituelsLayoutProps {
 
 const RituelsLayout: React.FC<RituelsLayoutProps> = ({ children }) => {
   return (
-    <div className="secondary-layout">
-      
+<div className="flex h-screen gap-4">
+{/* Barre de navigation */}
+      <nav className="mt-3 w-1/4 p-3 border-r border-blue-300 overflow-y-auto rounded-lg shadow-sm">
+        <Nav />
+      </nav>
 
-      <main className="md:flex justify-between items-center m-5 mt-36">
-   
-       <nav ><Nav /></nav>
-       <section>{children} </section>
+      {/* Contenu principal */}
+      <main className="w-3/4 p-5 overflow-y-auto">
+        <section>{children}</section>
       </main>
-
     </div>
   );
 };
