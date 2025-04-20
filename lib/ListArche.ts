@@ -1,4 +1,4 @@
-export const listA = [
+export const listArche = [
     { url: "/rituels/arche/aouverture", link: "Ouverture du Chapitre" },
     { url: "/rituels//arche/exaltation1", link: "Exaltation-1" },
     { url: "/rituels//arche/exaltation2", link: "Exaltation-2" },

@@ -13,9 +13,7 @@ function page() {
           et de leurs gants blancs (à moins d'avoir été installés Troisième
           Principal), prennent place dans le Chapitre avant l'entrée des trois
           Principaux. <br />
-          
-            Ssibe N - sitôt installé - allume le bougeoir posé sur son pupitre.
-          
+          Ssibe N - sitôt installé - allume le bougeoir posé sur son pupitre.
           <br />
           DC, à l'intérieur, près de la porte ouverte du Chapitre, annonce :
           <br />
@@ -54,12 +52,12 @@ function page() {
       </p>
       <p>
         <b>J</b> : Ô Dieu <br />
-        <b>J</b> <span className="com"> fait le premier pas et dit  </span>: Oh
-        ! Dieu Omnipotent, <br />
-        <b>A</b>  <span className="com">fait le deuxième pas  </span>:
-        Omniscient, <br />
+        <b>J</b> <span className="com"> fait le premier pas et dit </span>: Oh !
+        Dieu Omnipotent, <br />
+        <b>A</b> <span className="com">fait le deuxième pas </span>: Omniscient,{" "}
+        <br />
         <span className="tez">
-          <b>TEZ</b>  <span className="com">fais le troisième pas </span>:
+          <b>TEZ</b> <span className="com">fais le troisième pas </span>:
           Omnipotent pour qui tous les cœurs sont à découvert, tous les désirs
           connus et pour Qui nul secret n’est caché, purifie les pensées de nos
           cœurs par l’inspiration de Ton Esprit Saint pour que nous puissions
@@ -67,7 +65,7 @@ function page() {
         </span>
       </p>
       <p>
-      <b>Tous </b>: Ainsi soit-il.
+        <b>Tous </b>: Ainsi soit-il.
       </p>
       <p className="com">
         Les principaux engagent alors la formation des quatre triangles :
@@ -82,7 +80,8 @@ function page() {
         <b>
           main gauche, paume tournée vers le ciel, touche le poignet gauche du
           Principale à sa droite
-        </b>.
+        </b>
+        .
       </p>
       <p className="com">
         Le DC prend le petit <b>volume de la Loi Sacrée</b>(toujours placé sur
@@ -90,8 +89,8 @@ function page() {
         même le sol ni sur la voûte), l'ouvre à une page de l'Ancien Testaent et
         le dépose délicatement sur ces trois mains retourné. <br />
         Les Principaux <b>disposent alors leur main droite</b> de la manière
-        suivante : Chaque main droite recouvre le VSL touche du bout des
-        doigts le poignet droit du principal à sa gauche.
+        suivante : Chaque main droite recouvre le VSL touche du bout des doigts
+        le poignet droit du principal à sa gauche.
       </p>
       <p className="com">
         Ces 3 mains droites ainsi réunies sont posées délicatement sur le texte
@@ -114,8 +113,7 @@ function page() {
         - jurons de tenir secret <br />
         - le Mot Sacré <br />
         - et de ne jamais le révéler - que lorsque trois <br />
-        - tels que nous <br />
-        - seront réunis.
+        - tels que nous <br />- seront réunis.
       </p>
       <p>
         <b>TEZ </b>
@@ -127,19 +125,22 @@ function page() {
       </span>
       <br />
       <p>
-        <b> A </b><span className="com">seul </span> : Juré. <br />
+        <b> A </b>
+        <span className="com">seul </span> : Juré. <br />
         <span className="com">
           puis les abaisse une 2ème fois et revienne à la position initiale
         </span>
       </p>
       <p>
-      <b> J </b><span className="com">seul </span> : Juré. <br />
+        <b> J </b>
+        <span className="com">seul </span> : Juré. <br />
         <span className="com">
           puis les abaisse une 3ème fois et revienne à la position initiale
         </span>
       </p>
       <p>
-      <b>TEZ </b><span className="com">seul </span> : Juré. <br />
+        <b>TEZ </b>
+        <span className="com">seul </span> : Juré. <br />
         <span className="com">
           puis les abaisse une 4ème fois et dernière fois?
         </span>
@@ -227,8 +228,9 @@ function page() {
         <b>Principaux </b>: -O-O-O-O-
       </p>
       <p>
-      <b>TEZ </b>: Compagnons, Au Nom de D L’E E Le T H, je déclare ce Chapitre
-      dûment ouvert pour les besoins de la Maçonnerie de l’Arche Royale.
+        <b>TEZ </b>: Compagnons, Au Nom de D L’E E Le T H, je déclare ce
+        Chapitre dûment ouvert pour les besoins de la Maçonnerie de l’Arche
+        Royale.
       </p>
       <p className="com">
         Le DC va chercher la chandelle mobile sur le pupitre du scribe N et
@@ -272,8 +274,8 @@ function page() {
       </p>
       <p className="com">
         Le SE se lève, salue l'Autel, quitte le Signe, puis effectue la 2ème
-        partie du Signe de Respect ou d'appel, puis s'adresse au TEZ.
-       Lecture de la convocation est donnée.
+        partie du Signe de Respect ou d'appel, puis s'adresse au TEZ. Lecture de
+        la convocation est donnée.
       </p>
       <p className="tez">
         <b>TEZ </b> :<span className="com"> seul </span> -O- <br />
@@ -300,21 +302,19 @@ function page() {
         Un Cp a-t-il une remarque à une remarque à formuler après la lecture de
         ce procès-verbal ?
       </p>
-      <p className="com">
-        Aucun Cp ne demandant la parole, il enchaine :
-      </p>
+      <p className="com">Aucun Cp ne demandant la parole, il enchaine :</p>
       <p>
-      <b>TEZ </b>: Nous allons donc votez pour son approbation à la manière
-      accoutumé des Maçon de la Sainte Arche Royal de jérusalem.
+        <b>TEZ </b>: Nous allons donc votez pour son approbation à la manière
+        accoutumé des Maçon de la Sainte Arche Royal de jérusalem.
       </p>
       <p className="tez">
-        <b>
-          TEZ </b><span className="com">seul</span>
-          : Quels sont ceux qui sont pour ? -O-
+        <b>TEZ </b>
+        <span className="com">seul</span>: Quels sont ceux qui sont pour ? -O-
       </p>
       <p className="tez">
-        <b>
-          TEZ </b><span className="com">seul</span> : Quels sont ceux qui sont contre ? -O-
+        <b>TEZ </b>
+        <span className="com">seul</span> : Quels sont ceux qui sont contre ?
+        -O-
       </p>
       <p className="com">
         Les Cp votent
@@ -333,8 +333,11 @@ function page() {
         Cela étant exécuté, le DC va rendre le registre au SE et la Tenue se
         poursuit selon l'ordre fixé sur la convocation. <br />
       </p>
-      <div><NavArche /></div>
-
+      <section className="p-6 border-b border-gray-200">
+        <div className="bg-blue-50 rounded-lg p-4">
+          <NavArche />
+        </div>
+      </section>
     </div>
   );
 }

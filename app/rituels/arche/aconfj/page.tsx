@@ -77,25 +77,28 @@ function page() {
       <p>
         Elle fut créée en l’Année Lumière 2992 au sein de la Montagne Sainte de
         Moriah, au centre même du terrain on le sanctuaire solennel du Sanhedrin
-        fut élevé plus tard.</p>
+        fut élevé plus tard.
+      </p>
       <p>
-          En ce lieu Sacre, Abraham avait prouvé sa foi intuitive en ne refusant
-          pas d’offrir son fils bien-aimé Isaac en holocauste sur l’Autel de Son
-          Dieu, alors qu’il plût au Tout Puisant de l’un substituer une victime
-          moins chère. <br />
-          Là, sur l’aire d’Aravna, le Jébuséen David offrit le sacrifice
-          médiateur grâce auquel la peste fut enrayée.
+        En ce lieu Sacre, Abraham avait prouvé sa foi intuitive en ne refusant
+        pas d’offrir son fils bien-aimé Isaac en holocauste sur l’Autel de Son
+        Dieu, alors qu’il plût au Tout Puisant de l’un substituer une victime
+        moins chère. <br />
+        Là, sur l’aire d’Aravna, le Jébuséen David offrit le sacrifice médiateur
+        grâce auquel la peste fut enrayée.
       </p>
       <p className="com">
-          Jébuséen -, peuple Amorrite de Canaan habitant Jérusalem
+        Jébuséen -, peuple Amorrite de Canaan habitant Jérusalem
       </p>
       <p>
         Ce fut la aussi qu’il eut une vision où lui furent révèles les plans de
         ce magnifique Temple construit plus tard par son illustre fils, celui de
         qui Dieu avait dit :
       </p>
-      <p>« Ce sera lui qui bâtira une maison à mon Nom et j’affermirai pour
-        toujours le trône de son royaume »</p>
+      <p>
+        « Ce sera lui qui bâtira une maison à mon Nom et j’affermirai pour
+        toujours le trône de son royaume »
+      </p>
       <p>Pour ces raisons, on appela cette Loge Second Loge ou Loge Sacrée.</p>
       <p>
         La Troisième Loge ou Grande Loge Royale se tint à Jérusalem et fut créée
@@ -148,15 +151,18 @@ function page() {
         ici par tous les autres Comp.
       </p>
       <p className="com">(J regagne son siège après avoir salué le TEZ)</p>
-      
+
       <p>Principaux : -O-O-O-O-</p>
       <br />
       <p className="tez">
         <b>TEZ :</b> Compagnons, veuillez écouter avec attention notre Excellent
         compagnon Aggée qui va donner une Conférence Symboloque
       </p>
-      <div><NavArche /></div>
-
+      <section className="p-6 border-b border-gray-200">
+        <div className="bg-blue-50 rounded-lg p-4">
+          <NavArche />
+        </div>
+      </section>
     </div>
   );
 }

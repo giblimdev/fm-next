@@ -23,7 +23,8 @@ function page() {
       </p>
       <p className="com">
         Sitôt l'annonce du TEZ terminée, A et J se lèvent, vont recouvrir le
-        Delta Sacré et regagnent leur chaire.<br />
+        Delta Sacré et regagnent leur chaire.
+        <br />
         Le Ppal séj vient devant la voûte, salue l'Autel et se retire dans
         l'antichambre où il s'adresse au candidat.
       </p>
@@ -77,9 +78,8 @@ function page() {
         dire.
       </p>
       <p className="g">
-        <b>Gardien </b>:
-        <span className="com">chuchotte au scrib N</span> Le Ppal séj à son
-        retour.
+        <b>Gardien </b>:<span className="com">chuchotte au scrib N</span> Le
+        Ppal séj à son retour.
       </p>
       <p className="n com">
         Le scribe N referme la porte, revient devant la Voûte, salue l'autel,
@@ -127,11 +127,12 @@ function page() {
       </p>
       <p className="com">Ce dont s’assure le Scribe N.</p>
       <p className="n">
-        <b>Scribe N </b>: Comment espère-t-il obtenir les privilèges de ce suprême degré ?
+        <b>Scribe N </b>: Comment espère-t-il obtenir les privilèges de ce
+        suprême degré ?
       </p>
       <p className="gardien">
-        <b>Gardien </b>: Par l’aide de D, l’E E,le T H, par l’appui du cercle et du
-        triangle réunis et le secours des M de P.
+        <b>Gardien </b>: Par l’aide de D, l’E E,le T H, par l’appui du cercle et
+        du triangle réunis et le secours des M de P.
       </p>
       <p className="n">
         <b>Scribe N </b>: Est-il en possession des M de P ?
@@ -140,9 +141,12 @@ function page() {
         <b>Gardien </b>: Demandez les lui.
       </p>
       <p className="n">
-        <b>Scribe N </b> <span className="com"> s'adressant au Cand </span>: Donnez moi les M de P.
+        <b>Scribe N </b> <span className="com"> s'adressant au Cand </span>:
+        Donnez moi les M de P.
       </p>
-      <p className="cand"><b>Cand </b>: ............</p>
+      <p className="cand">
+        <b>Cand </b>: ............
+      </p>
       <p className="n">
         <b>Scribe N </b>: Leur signification ?
       </p>
@@ -154,18 +158,18 @@ function page() {
       </p>
       <p className="com">
         <span className="n">
-          Le Scribe N. vient se placer devant la Voûte, salue l'Autel et reste au
-          signe de Foi.
+          Le Scribe N. vient se placer devant la Voûte, salue l'Autel et reste
+          au signe de Foi.
         </span>
       </p>
       <p className="n">
         <b> Scribe N </b>: Trés Excellent. le F........, qui a été régulièrement
         initié dans la Franc-Maçonnerie, passé au grade de Compagnon et, en
-        temps convenable élevé au sublime grade de Maître Maçon, dont il a rempli
-        les devoirs depuis 4 semaines au moins et qui, en récompense de son
-        mérite, a reçu communication des m. de p. conduisant à ce suprême degré
-        auquel il sollicite d’être admis. Il est convenablement préparé pour la
-        cérémonie.
+        temps convenable élevé au sublime grade de Maître Maçon, dont il a
+        rempli les devoirs depuis 4 semaines au moins et qui, en récompense de
+        son mérite, a reçu communication des m. de p. conduisant à ce suprême
+        degré auquel il sollicite d’être admis. Il est convenablement préparé
+        pour la cérémonie.
       </p>
       <p className="tez">
         <b>TEZ </b>: Comment espère-t-il obtenir les privilèges de ce suprême
@@ -196,13 +200,11 @@ function page() {
       </p>
       <p className="tez">
         <b>TEZ </b>: F .........., puisque vous désirez être admis dans notre
-        Ordre et que nous vous avons confié les mdp conduisant à ce suprême degré,
-        nous devons vous demander si vous vous présentez librement et
+        Ordre et que nous vous avons confié les mdp conduisant à ce suprême
+        degré, nous devons vous demander si vous vous présentez librement et
         volontairement comme candidat à la Maçonnerie de l’Arche Royale ?
       </p>
-      <p className="com">
-        Le Cand répond par l'affirmative. le TEZ continue :
-      </p>
+      <p className="com">Le Cand répond par l'affirmative. le TEZ continue :</p>
       <p className="tez">
         <b>TEZ </b>: Vous présentez-vous avec le désir de vous perfectionner
         dans la Maçonnerie et de consacrer ce perfectionnement à la gloire de
@@ -214,21 +216,22 @@ function page() {
         Suprême Degré et, une fois admis, à conserver le secret de nos rites
         mystiques ?
       </p>
-      <p className="com">
-        Le Cand répond par l'affirmative. le Tez continue :
-      </p>
+      <p className="com">Le Cand répond par l'affirmative. le Tez continue :</p>
       <p className="tez">
         <b> TEZ </b>: Veuillez donc vous agenouiller pour participer à une
         prière maçonnique.
       </p>
 
-      <p><b>Les Principaux </b>: -O-O-O-O-</p>
-      <p className="dc">
+      <p>
+        <b>Les Principaux </b>: -O-O-O-O-
       </p>
+      <p className="dc"></p>
 
-      <div>
-        <NavArche />
-      </div>
+      <section className="p-6 border-b border-gray-200">
+        <div className="bg-blue-50 rounded-lg p-4">
+          <NavArche />
+        </div>
+      </section>
     </div>
   );
 }

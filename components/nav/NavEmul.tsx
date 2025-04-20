@@ -1,48 +1,99 @@
-// @/components/Pagination.tsx
-'use client'
+// @/components/nav/NavEmul.tsx
+"use client";
 
 import Link from "next/link";
 import React from "react";
-import { usePathname } from "next/navigation"; // Importez usePathname
-import { listEmul } from "@/lib/ListEmul"; // Importez la liste des pages
+import { usePathname } from "next/navigation";
+import { listEmul } from "@/lib/ListEmul";
+
+interface Page {
+  url: string;
+}
 
 const NavEmul: React.FC = () => {
-  // Récupérer l'URL actuelle
   const currentPageUrl = usePathname();
 
-  // Trouver l'index de la page actuelle dans la liste
-  const currentIndex = listEmul.findIndex((page) => page.url === currentPageUrl);
+  // Validation des données
+  if (!Array.isArray(listEmul)) {
+    console.error("NavEmul: listEmul doit être un tableau");
+    return null;
+  }
 
-  // Vérifier si la page précédente existe
+  if (listEmul.length === 0) {
+    console.warn("NavEmul: listEmul est vide");
+    return null;
+  }
+
+  // Normalisation des URLs
+  const normalizeUrl = (url: string) => url.replace(/\/+$/, "");
+  const currentNormalized = normalizeUrl(currentPageUrl);
+
+  // Recherche de la page actuelle
+  const currentIndex = listEmul.findIndex((page: Page) => {
+    const pageNormalized = normalizeUrl(page.url);
+    return (
+      currentNormalized === pageNormalized ||
+      currentNormalized.startsWith(`${pageNormalized}/`)
+    );
+  });
+
+  if (currentIndex === -1) {
+    console.warn(`Aucune correspondance pour l'URL: ${currentPageUrl}`);
+    return null;
+  }
+
+  // Classes CSS
+  const classNames = {
+    enabled:
+      "px-4 py-2 bg-gray-200 text-gray-700 rounded hover:bg-gray-300 transition-colors",
+    disabled: "px-4 py-2 bg-gray-100 text-gray-400 rounded cursor-not-allowed",
+    indicator: "px-4 py-2 bg-blue-500 text-white rounded",
+  };
+
+  // Navigation
   const hasPrevious = currentIndex > 0;
-  // Vérifier si la page suivante existe
   const hasNext = currentIndex < listEmul.length - 1;
 
   return (
-    <div className="flex justify-center items-center space-x-4 my-8">
-      {/* Bouton "Précédent" */}
-      {hasPrevious && (
-        <Link href={listEmul[currentIndex - 1].url}>
-          <p className="px-4 py-2 bg-gray-200 text-gray-700 rounded hover:bg-gray-300">
-            Précédent
-          </p>
+    <nav
+      aria-label="Navigation entre les pages"
+      className="flex justify-center items-center gap-4 my-8"
+    >
+      {/* Bouton Précédent */}
+      {hasPrevious ? (
+        <Link
+          href={listEmul[currentIndex - 1].url}
+          className={classNames.enabled}
+          aria-label="Page précédente"
+        >
+          Précédent
         </Link>
+      ) : (
+        <span className={classNames.disabled} aria-hidden="true">
+          Précédent
+        </span>
       )}
 
-      {/* Numéro de la page en cours */}
-      <span className="px-4 py-2 bg-blue-500 text-white rounded">
-        Page {currentIndex + 1} / {listEmul.length}
-      </span>
+      {/* Indicateur de page */}
+      <div className={classNames.indicator} aria-live="polite">
+        {currentIndex + 1} / {listEmul.length}
+      </div>
 
-      {/* Bouton "Suivant" */}
-      {hasNext && (
-        <Link href={listEmul[currentIndex + 1].url}>
-          <p className="px-4 py-2 bg-gray-200 text-gray-700 rounded hover:bg-gray-300">
-            Suivant
-          </p>
+      {/* Bouton Suivant */}
+      {hasNext ? (
+        <Link
+          href={listEmul[currentIndex + 1].url}
+          className={classNames.enabled}
+          aria-label="Page suivante"
+        >
+          Suivant
         </Link>
+      ) : (
+        <span className={classNames.disabled} aria-hidden="true">
+          Suivant
+        </span>
       )}
-    </div>
+    </nav>
   );
 };
 

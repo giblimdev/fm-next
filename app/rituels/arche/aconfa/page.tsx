@@ -1,10 +1,10 @@
-import NavArche from '@/components/nav/NavArche'
-import React from 'react'
+import NavArche from "@/components/nav/NavArche";
+import React from "react";
 
 function page() {
   return (
     <div>
-          <h2>Conférence symbolique</h2>
+      <h2>Conférence symbolique</h2>
       <p className="com">Allocution du 2ème Principale</p>
       <p>
         <b>Principaux </b>: O-O-O-O-O
@@ -21,7 +21,7 @@ function page() {
         dans nos cœurs ces hautes leçons de morale que nous sommes tenus de
         mettre en pratique en tant que membres de ce Suprême Degré. <br />
       </p>
-      
+
       <p>
         La forme d’un Chapitre de l’Arche Royale, lorsqu’il est convenablement
         aménagé, se rapproche, autant que les circonstances le permettent, de
@@ -160,7 +160,7 @@ function page() {
         toujours comme les véritables symboles de la Sagesse, la Vérité et de la
         Justice du Très Haut.
       </p>
- <p>
+      <p>
         La Sagesse du Très Haut est amplement démontrée dans le VLS qui nous
         apporte le témoignage de Sa Toute Puissance et nous révélé sa Volonté.
         <br />
@@ -188,35 +188,38 @@ function page() {
         La pioche, le levier et la pelle sont les outils qu’utilisèrent les
         Séjournants chargés de préparer le terrain pour les fondations du Second
         Temple : <br />
-        </p>
-       <p> la pioche pour défoncer le sol, </p>
-        <p>le levier pour prendre des appuis </p>
-        <p> la pelle pour enlever les gravois et rejeter la terre. </p>
-        <p>
-          La signification spirituelle que nous donnons à ces outils est la
-          suivante :
-        </p>
-        <p>
-          - Le coup de pioche nous fait penser au son de la trompette du
-          jugement dernier, alors que le sol tremblera, s’ouvrira et que les
-          tombes libéreront les morts.
-        </p>
-        <p>
-          - Le levier, emblème de la droiture, représente l’attitude de notre
-          corps lorsqu’il se dressera en ce jour redoutable pour se présenter
-          devant son juge terrible mais clément.
-        </p>
-        <p>
-          - Le travail de la pelle nous dépeint bien la position du corps couché
-          dans la trombe et nous, nous espérons avec une humble et sainte
-          confiance qu’après avoir quitté notre dépouille terrestre, notre âme
-          s’élèvera vers la Vie Immortelle et l’Eternelle Béatitude.
-        </p>
-      
-      <div><NavArche /></div>
+      </p>
+      <p> la pioche pour défoncer le sol, </p>
+      <p>le levier pour prendre des appuis </p>
+      <p> la pelle pour enlever les gravois et rejeter la terre. </p>
+      <p>
+        La signification spirituelle que nous donnons à ces outils est la
+        suivante :
+      </p>
+      <p>
+        - Le coup de pioche nous fait penser au son de la trompette du jugement
+        dernier, alors que le sol tremblera, s’ouvrira et que les tombes
+        libéreront les morts.
+      </p>
+      <p>
+        - Le levier, emblème de la droiture, représente l’attitude de notre
+        corps lorsqu’il se dressera en ce jour redoutable pour se présenter
+        devant son juge terrible mais clément.
+      </p>
+      <p>
+        - Le travail de la pelle nous dépeint bien la position du corps couché
+        dans la trombe et nous, nous espérons avec une humble et sainte
+        confiance qu’après avoir quitté notre dépouille terrestre, notre âme
+        s’élèvera vers la Vie Immortelle et l’Eternelle Béatitude.
+      </p>
 
+      <section className="p-6 border-b border-gray-200">
+        <div className="bg-blue-50 rounded-lg p-4">
+          <NavArche />
+        </div>
+      </section>
     </div>
-  )
+  );
 }
 
-export default page
+export default page;

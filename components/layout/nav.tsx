@@ -1,10 +1,10 @@
 import Link from "next/link";
 import React from "react";
 import { listEmul } from "../../lib/ListEmul";
-import { listA } from "../../lib/ListArche";
+import { listArche } from "../../lib/ListArche";
 import { listMarque } from "../../lib/ListMarque";
 import { listNar } from "../../lib/ListNar";
-import { listKT } from "../../lib/ListeKt";
+import { listKT } from "../../lib/ListKt";
 import {
   Accordion,
   AccordionContent,
@@ -34,7 +34,7 @@ function Nav() {
         <AccordionItem value="arche-royal">
           <AccordionTrigger>L'Arche Royal</AccordionTrigger>
           <AccordionContent>
-            {listA.map((item, index) => (
+            {listArche.map((item, index) => (
               <p key={index}>
                 <Link className="text-base" href={item.url}>
                   {item.link}

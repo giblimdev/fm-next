@@ -1,48 +1,85 @@
 // @/components/Pagination.tsx
-'use client'
+"use client";
 
 import Link from "next/link";
 import React from "react";
-import { usePathname } from "next/navigation"; // Importez usePathname
-import { listMarque } from "@/lib/ListMarque"; // Importez la liste des pages
+import { usePathname } from "next/navigation";
+import { listMarque } from "@/lib/ListMarque";
 
 const NavMarque: React.FC = () => {
-  // Récupérer l'URL actuelle
   const currentPageUrl = usePathname();
 
-  // Trouver l'index de la page actuelle dans la liste
-  const currentIndex = listMarque.findIndex((page) => page.url === currentPageUrl);
+  // Validation des données
+  if (!Array.isArray(listMarque) || listMarque.length === 0) {
+    console.error("NavMarque: listMarque doit être un tableau non vide");
+    return null;
+  }
 
-  // Vérifier si la page précédente existe
+  // Normalisation des URLs pour la comparaison
+  const normalizeUrl = (url: string) => url.replace(/\/+$/, "");
+  const currentNormalized = normalizeUrl(currentPageUrl);
+
+  // Trouver l'index avec correspondance exacte
+  const currentIndex = listMarque.findIndex(
+    (page) => normalizeUrl(page.url) === currentNormalized
+  );
+
+  if (currentIndex === -1) {
+    console.warn(`Aucune correspondance pour l'URL: ${currentPageUrl}`);
+    return null;
+  }
+
+  // Configuration des classes CSS
+  const buttonClasses = {
+    enabled:
+      "px-4 py-2 bg-gray-200 text-gray-700 rounded hover:bg-gray-300 transition-colors",
+    disabled: "px-4 py-2 bg-gray-100 text-gray-400 rounded cursor-not-allowed",
+    indicator: "px-4 py-2 bg-blue-500 text-white rounded",
+  };
+
   const hasPrevious = currentIndex > 0;
-  // Vérifier si la page suivante existe
   const hasNext = currentIndex < listMarque.length - 1;
 
   return (
-    <div className="flex justify-center items-center space-x-4 my-8">
-      {/* Bouton "Précédent" */}
-      {hasPrevious && (
-        <Link href={listMarque[currentIndex - 1].url}>
-          <p className="px-4 py-2 bg-gray-200 text-gray-700 rounded hover:bg-gray-300">
-            Précédent
-          </p>
+    <nav
+      aria-label="Pagination"
+      className="flex justify-center items-center gap-4 my-8"
+    >
+      {/* Bouton Précédent */}
+      {hasPrevious ? (
+        <Link
+          href={listMarque[currentIndex - 1].url}
+          className={buttonClasses.enabled}
+          aria-label="Page précédente"
+        >
+          Précédent
         </Link>
+      ) : (
+        <span className={buttonClasses.disabled} aria-hidden="true">
+          Précédent
+        </span>
       )}
 
-      {/* Numéro de la page en cours */}
-      <span className="px-4 py-2 bg-blue-500 text-white rounded">
-        Page {currentIndex + 1} / {listMarque.length}
+      {/* Indicateur de page */}
+      <span className={buttonClasses.indicator} aria-live="polite">
+        {currentIndex + 1} / {listMarque.length}
       </span>
 
-      {/* Bouton "Suivant" */}
-      {hasNext && (
-        <Link href={listMarque[currentIndex + 1].url}>
-          <p className="px-4 py-2 bg-gray-200 text-gray-700 rounded hover:bg-gray-300">
-            Suivant
-          </p>
+      {/* Bouton Suivant */}
+      {hasNext ? (
+        <Link
+          href={listMarque[currentIndex + 1].url}
+          className={buttonClasses.enabled}
+          aria-label="Page suivante"
+        >
+          Suivant
         </Link>
+      ) : (
+        <span className={buttonClasses.disabled} aria-hidden="true">
+          Suivant
+        </span>
       )}
-    </div>
+    </nav>
   );
 };
 

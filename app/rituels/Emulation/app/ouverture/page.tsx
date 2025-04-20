@@ -1,4 +1,5 @@
 import NavEmul from "@/components/nav/NavEmul";
+
 import React from "react";
 function ouverture() {
   return (
@@ -316,9 +317,11 @@ function ouverture() {
           <p>
             <b>Sec </b>: Le point suivant est …
           </p>
-          <div>
-            <NavEmul />
-          </div>
+          <section className="p-6 border-b border-gray-200">
+            <div className="bg-blue-50 rounded-lg p-4">
+              <NavEmul />
+            </div>
+          </section>
         </div>
       </div>
     </div>

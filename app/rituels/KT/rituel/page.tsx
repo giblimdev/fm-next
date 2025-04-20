@@ -4,14 +4,6 @@ import React from "react";
 function Page() {
   return (
     <div className="min-h-screen bg-gradient-to-b from-blue-50 to-gray-100">
-      {/* En-tête de page */}
-      <header className="py-8 px-4 sm:px-6 lg:px-8">
-        <h1 className="text-3xl md:text-4xl font-bold text-center text-blue-800 mb-2">
-          ritual
-        </h1>
-      </header>
-
-      {/* Contenu principal */}
       <main className="container mx-auto px-4 sm:px-6 lg:px-8 pb-12">
         <div className="bg-white rounded-xl shadow-md overflow-hidden max-w-4xl mx-auto">
           <section className="p-6">
@@ -153,19 +145,18 @@ function Page() {
                   la main puis présente la poignée au chevalier qui :
                 </p>
 
-                <ol className="list-decimal pl-8 com" start="5">
-                  {" "}
+                <ul className="list-decimal pl-8 com">
                   {/* Continuing the list numbering */}
                   <li>
-                    Saisit l’épée de la main droite par la poignée et l’amène au
-                    “PRÉSENTEZ”.
+                    5. Saisit l’épée de la main droite par la poignée et l’amène
+                    au “PRÉSENTEZ”.
                   </li>
                   <li>Puis salue l’Ém. Précepteur par le S.d.C.</li>
                   <li>
                     Le Mar. ou le Mar.A. le raccompagne à sa place. L’Officier
                     rengaine son épée et s’assoit.
                   </li>
-                </ol>
+                </ul>
 
                 <p className="com">
                   Le Cap.G. garde toujours son épée dégainée.
