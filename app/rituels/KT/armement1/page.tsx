@@ -402,12 +402,10 @@ function Page() {
                 <p>
                   <b>Mar.</b> : DOS AU - SÉPULCRE !
                 </p>
-                <ol className="list-decimal pl-8 com" start="3">
-                  <li>
-                    Tous les Chev. font face vers l'extérieur par un demi-tour à
-                    droite.
-                  </li>
-                </ol>
+                <p>
+                  3 - Tous les Chev. font face vers l'extérieur par un demi-tour
+                  à droite.
+                </p>
 
                 <p className="com">
                   Le Mar., l'épée au "PORTEZ", précède le Pèl. qui fait le tour
