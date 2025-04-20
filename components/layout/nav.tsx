@@ -4,6 +4,7 @@ import { listEmul } from "../../lib/ListEmul";
 import { listA } from "../../lib/ListArche";
 import { listMarque } from "../../lib/ListMarque";
 import { listNar } from "../../lib/ListNar";
+import { listKT } from "../../lib/ListeKt";
 import {
   Accordion,
   AccordionContent,
@@ -17,11 +18,7 @@ function Nav() {
       <Accordion type="single" collapsible>
         {/* Emulation Section */}
         <AccordionItem value="emulation">
-          <AccordionTrigger>
-           
-              Emulation
-         
-          </AccordionTrigger>
+          <AccordionTrigger>Emulation</AccordionTrigger>
           <AccordionContent>
             {listEmul.map((item, index) => (
               <p key={index}>
@@ -66,6 +63,20 @@ function Nav() {
           <AccordionTrigger>Les Nautoniers</AccordionTrigger>
           <AccordionContent>
             {listNar.map((item, index) => (
+              <p key={index}>
+                <Link className="text-base" href={item.url}>
+                  {item.link}
+                </Link>
+              </p>
+            ))}
+          </AccordionContent>
+        </AccordionItem>
+
+        {/* Kt Section */}
+        <AccordionItem value="KT">
+          <AccordionTrigger>Ordre Maçonnique d temple</AccordionTrigger>
+          <AccordionContent>
+            {listKT.map((item, index) => (
               <p key={index}>
                 <Link className="text-base" href={item.url}>
                   {item.link}
