@@ -4,14 +4,6 @@ import React from "react";
 function Page() {
   return (
     <div className="min-h-screen bg-gradient-to-b from-blue-50 to-gray-100">
-      {/* En-tête de page */}
-      <header className="py-8 px-4 sm:px-6 lg:px-8">
-        <h1 className="text-3xl md:text-4xl font-bold text-center text-blue-800 mb-2">
-          obligation
-        </h1>
-      </header>
-
-      {/* Contenu principal */}
       <main className="container mx-auto px-4 sm:px-6 lg:px-8 pb-12">
         <div className="bg-white rounded-xl shadow-md overflow-hidden max-w-4xl mx-auto">
           <section className="p-6">
