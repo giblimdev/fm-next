@@ -1,6 +1,7 @@
 import Link from "next/link";
 import React from "react";
 import { listEmul } from "../../lib/ListEmul";
+import { listqEmulation } from "../../lib/ListqEmulation";
 import { listArche } from "../../lib/ListArche";
 import { listMarque } from "../../lib/ListMarque";
 import { listNar } from "../../lib/ListNar";
@@ -21,6 +22,20 @@ function Nav() {
           <AccordionTrigger>Emulation</AccordionTrigger>
           <AccordionContent>
             {listEmul.map((item, index) => (
+              <p key={index}>
+                <Link className="text-base" href={item.url}>
+                  {item.link}
+                </Link>
+              </p>
+            ))}
+          </AccordionContent>
+        </AccordionItem>
+
+        {/* Question Emulation Section */}
+        <AccordionItem value="qemulation">
+          <AccordionTrigger>Lecture Emulation</AccordionTrigger>
+          <AccordionContent>
+            {listqEmulation.map((item, index) => (
               <p key={index}>
                 <Link className="text-base" href={item.url}>
                   {item.link}
