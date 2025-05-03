@@ -47,21 +47,21 @@ function page() {
   Le VM gagne sa place, à l'O., (Les FF applaudissent le VM pendant son
   trajet).
 </p>
-<p><b>VM </b>: -O- 1er S : -O- 2d S : -O-</p>
+<p><b>VM </b>: - O - <b>1er S </b> : - O - <b> 2d S </b>: - O -</p>
 <p className="com">Les FF. se lèvent, font silence et font le s. de Foi.</p>
 <p className="vm">
   <b>VM. </b>: Remercions le G.A.D.L'U. des aliments que nous allons partager et que
   nous recevons de Sa Main avec reconnaissance.
 </p>
 <p>
-  <b>PMI </b>: <span className="com">(Seul)</span>-OO- « Ainsi soit-il ». Tous cessent le s.
+  <b>PMI </b>: <span className="com"> (Seul) </span>-OO- « Ainsi soit-il ». <span className="com">Tous cessent le s.
   de Foi. Le VM s'assoit et les FF. l’imitent. Le banquet peut alors commencer
-  et le VM choisira les moments opportuns pour porter les Toasts qui suivent.
+  et le VM choisira les moments opportuns pour porter les Toasts qui suivent.</span>
 </p>
 <h2>TOASTS OFFICIELS ET OBLIGATOIRES</h2>
-<p><b>PMI </b>: -O- et se lève</p>
-<p><b>1er S </b>: -O- et se lève</p>
-<p><b>2d S </b>: -O- et se lève</p>
+<p><b>PMI </b>: - O - <span className="com">et se lève</span></p>
+<p><b>1er S </b>: - O - <span className="com">et se lève</span></p>
+<p><b>2d S </b>: - O - <span className="com">et se lève</span></p>
 <p className="com">(Les FF. font silence)</p>
 <p><b>PMI </b>: FF. SS., tout est-il chargé sur vos colonnes respectives ?</p>
 <p className="com">
@@ -73,9 +73,9 @@ function page() {
 <p><b>2d S </b>: Tout est chargé au M.</p>
 <p className="com">Le PMI et les SS s'assoient.</p>
 <h3>1/ Au président de la république Française</h3>
-<p><b>PMI </b>: -O-</p>
-<p><b>1er S </b>: -O-</p>
-<p><b>2d S </b>: -O-</p>
+<p><b>PMI </b>: - O -</p>
+<p><b>1er S </b>: - O -</p>
+<p><b>2d S </b>: - O -</p>
 <p><b>PMI </b>: Mes FF., prêtez attention au VM.</p>
 <p>
   <b>VM </b>: <span className="com">(se lève)</span> Mes FF., je vous prie de bien vouloir
@@ -86,9 +86,9 @@ function page() {
   <b>Tous </b>: « Au Président de la République Française »
 </p>
 <h3>2/ Aux souverains et chef d'états...</h3>
-<p><b>PMI </b>: -O-</p>
-<p><b>1er S </b>: -O-</p>
-<p><b>2d S </b>: -O-</p>
+<p><b>PMI </b>: - O -</p>
+<p><b>1er S </b>: - O -</p>
+<p><b>2d S </b>: - O -</p>
 <p><b>PMI </b>: Mes FF., prêtez attention au VM.</p>
 <p>
   <b>VM </b>: <span className="com">(se lève)</span> Mes FF., je vous prie de bien vouloir
@@ -102,9 +102,9 @@ function page() {
   rassoient.
 </p>
 <h3>3/ Au T.R.G.M.</h3>
-<p><b>PMI </b>: -O-</p>
-<p><b>1er S </b>: -O-</p>
-<p><b>2d S </b>: -O-</p>
+<p><b>PMI </b>: - O -</p>
+<p><b>1er S </b>: - O -</p>
+<p><b>2d S </b>: - O -</p>
 <p><b>PMI </b>: Mes FF., prêtez attention au VM.</p>
 <p>
   <b>VM </b>: <span className="com">(se lève)</span> Mes FF., je vous prie de bien vouloir
@@ -118,9 +118,9 @@ function page() {
   réponse au Toast en son honneur.
 </p>
 <h3>4/ A la GLNF</h3>
-<p><b>PMI </b>: -O-</p>
-<p><b>1er S </b>: -O-</p>
-<p><b>2d S </b>: -O-</p>
+<p><b>PMI </b>: - O -</p>
+<p><b>1er S </b>: - O -</p> 
+<p><b>2d S </b>: - O -</p>
 <p><b>PMI </b>: Mes FF., prêtez attention au VM.</p>
 <p>
   <b>VM </b>: <span className="com">(se lève)</span> Mes FF., je vous prie de bien vouloir
@@ -137,9 +137,9 @@ function page() {
   Off. de G.L.
 </p>
 <p className="com">Ceci se fait alors dans les conditions suivantes :</p>
-<p><b>PMI </b>: -O-</p>
-<p><b>1er S </b>: -O-</p>
-<p><b>2d S </b>: -O-</p>
+<p><b>PMI </b>: - O -</p>
+<p><b>1er S </b>: - O -</p>
+<p><b>2d S </b>: - O -</p>
 <p>
   <b>PMI </b>: Mes FF., Le VM. Souhaiterait entendre quelques mots de réponse au nom
   de la GLNF., de la part du RF. …....... (ou TRF.)
@@ -149,7 +149,7 @@ function page() {
   réponse.
 </p>
 <h3>5/ Au TRGMP et à la GLP.</h3>
-<p><b>PMI </b>: -O- 1er S : -O- 2d S : -O-</p>
+<p><b>PMI </b>: - O - <b>1er S</b> : - O - <b>2d S</b> : - O -</p>
 <p><b>PMI </b>: Mes FF, prêtez attention au VM.</p>
 <p>
   <b>VM </b>: (se lève) Mes FF., je vous prie de bien vouloir vous lever <br />
@@ -163,7 +163,7 @@ function page() {
   une réponse à un Off. de GLP. Ceci se fait alors dans les conditions suivantes
   :
 </p>
-<p><b>PMI </b>: -O- 1er S : -O- 2d S : -O-</p>
+<p><b>PMI </b>: - O - <b>1er S</b> : - O - <b>2d S</b> : - O - </p>
 <p>
   <b>PMI </b>: Mes FF., Le VM. souhaiterait entendre quelques mots de réponse au nom
   de la GLP., de la part du TRF. …....... (RF ou TVF.)
@@ -176,7 +176,7 @@ function page() {
 <p>Ce Toast est porté au Cand. à la cérémonie qui a précédé l'agape.</p>
 
 <p>Il peut s'agir d'un nouvel initié ou d'un nouveau Cp. Ou M.</p>
-<p><b>PMI </b>: -O- 1er S : -O- 2d S : -O-</p>
+<p><b>PMI </b>: - O - <b>1er S</b> : - O - <b>2d S</b> : - O -</p>
 
 <p>
   <b>PMI </b>: Mes FF., Prêtez attention au VM. qui désire porter un Toast au Cand. à la
@@ -199,8 +199,8 @@ function page() {
   d'usage que celui qui a été ainsi honoré réponde au Toast.
 </p>
 <p className="com">Il le fait à l'invitation du PMI.</p>
-<p><b>PMI </b>: -O- <b>
-  1er S</b> : -O- <b>2d S</b> : -O-</p>
+<p><b>PMI </b>: - O - <b>
+  1er S</b> : - O - <b>2d S</b> : - O -</p>
 <p>
   <b>PMI </b>: Mes FF., Le VM. souhaiterait entendre la réponse de notre nouveau F.
   (Cp M ou M installé)
@@ -211,7 +211,7 @@ function page() {
 </p>
 <h3>7/ Aux LL. Sœurs</h3>
 <br/>
-<p><b>PMI </b>: -O- <b>1er S </b>: <b>-O- 2d S </b>: -O-</p>
+<p><b>PMI </b>: - O - <b>1er S </b>: - O - <b>2d S </b>: - O -</p>
 <p><b>
   PMI </b>: Mes FF., je vous prie de prêtez attention à notre F. 1er S. qui va
   porter un Toast aux LL. Sœurs.
@@ -227,7 +227,7 @@ function page() {
 </p>
 <p>En ce cas, il est procédé comme pour la réponse d'un cand.</p><br/>
 <h3>8/ Aux FF. Visiteurs</h3>
-<p><b>PMI. </b>: -O- 1er S. : -O- 2d S. : -O-</p>
+<p><b>PMI. </b>: -O- <b>1er S. </b>: -O- <b>2d S. </b>: -O-</p>
 <p>
   <b>PMI. </b>: Mes FF., je vous prie de prêter attention à notre F. 2d S. qui va
   porter un Toast aux FF. visiteurs.
@@ -250,9 +250,9 @@ function page() {
   l'autre des SS.
 </p>
 <h1>TOAST DU TUILLEUR</h1>
-<p><b>PMI </b>: - OO - en restant assis</p>
+<p><b>PMI </b>: - OO - <span className="com">en restant assis</span></p>
 <p>
-  Le T se lève et vienT avec son verre se placer derrière le VM. Il place sa
+  Le T se lève et vient avec son verre se placer derrière le VM. Il place sa
   main d. sur l'ép. g. du VM. et, tenant son verre de la m. g., dit :
 </p>
 <p>
@@ -260,9 +260,9 @@ function page() {
   dispersés sur la surface de la terre, sur les mers (et dans les airs), en leur
   souhaitant un rapide soulagement de leur souffrance et un prompt retour dans
   leur pays natal, si tel est leur désir. <br/>
-  <span className="com"></span>Les FF. se lèvent et portent le Toast
+  <span className="com">Les FF. se lèvent et portent le Toast</span> <br />
   <b>Tous </b>: "À tous les M. pauvres et dans la détresse !" <br/>
-  Ce Toast termine le protocole de table
+  Ce toast termine le protocole de table
 </p>
 <div><NavEmul /></div>
 

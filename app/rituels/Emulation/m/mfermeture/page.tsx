@@ -14,22 +14,22 @@ function page() {
 Le VM se lève et les FF. l’imitent, dans un même mouvement.</p>
 <p><b>VM </b>: F. 2d S quel est le constant devoir de tout M. M.?</p>
 <p>
-<b>2d S </b>: (tourne la tête vers le VM) De s'assurer que la L. est bien couv.
+<b>2d S </b>: <span className="com">(tourne la tête vers le VM)</span> De s'assurer que la L. est bien couv.
 </p>
 <p><b>VM </b>: veuillez faire accomplir ce devoir</p>
 <p>
-<b>2d S </b>: (tourne la tête vers le C) F. C assurez-vous que la L. est bien
+<b>2d S </b>: <span className="com">(tourne la tête vers le C)</span> F. C assurez-vous que la L. est bien
   couverte.
 </p>
-<p><b>C </b>: (Le C. va à la porte) -OO-O-</p>
-<p><b>T </b>: -OO-O-</p>
+<p><b>C </b>: <span className="com">(Le C. va à la porte)</span> - OO - O -</p>
+<p><b>T </b>: - OO - O -</p>
 <p>
 <b>C </b> <span className="com">(Il vient à la g. du 1er S., fait le p. se met à l'O. de MM. tourne la
-  tête vers le 2d S.) </span> : F. 2d S. la loge est bien couverte (fait le s. p. recouvre
-  et quitte)
+  tête vers le 2d S.) </span> : F. 2d S. la loge est bien couverte <span className="com">(fait le s. p. recouvre
+  et quitte l'Ordre)</span>
 </p>
 <p>
-<b>2d S </b>: -OO-O- fait le pas, se met à l'O., tourne la tête vers le VM. VM la
+<b>2d S </b>: - OO - O - <span className="com">fait le pas, se met à l'O., tourne la tête vers le VM.</span> VM la
   L. est bien couverte. Fait le s. p., recouvre et quitte.
 </p>
 <p><b>VM </b>: F 1er S. quel est le second devoir ?</p>
@@ -74,15 +74,17 @@ Le VM se lève et les FF. l’imitent, dans un même mouvement.</p>
 <p><b>1er S </b>: VM daignez recevoir, de ma part, les s. substitués du MM.</p>
 <p>
 <b>VM </b>: F. 1er S je les recevrai avec plaisir et, pour l'instruction des FF.,
-  vous prononcerez les m. à haute voix. <br />
+  vous prononcerez les m. à haute voix. </p>
+  <p className="com">
   Le VM. toujours à l'o., quitte sa chaire par le coté g. et viens se placer à
-  deux pas du 1er S et face à se dernier fait le p.
-  <br />Le 1er S fait le p., tend sa m. d. au VM, lui donne l'Att. de p.
+  deux pas du 1er S et face à se dernier fait le p.<br />
+  Le 1er S fait le p., tend sa m. d. au VM, lui donne l'Att. de p.
   conduisant du 2ème au 3ème Grade, élève la m. du VM, se penche légèrement, et
   dit le m. de p. à haute voix. Ils reviennent tous deux à l'o. de MM. Le 1er S.
   fait un autre p., se met à l'ordre de Cp. et exécute les s. d'H., de C., le s.
   p. et recouvre. Ils se met à l'ordre de M.M., tend sa m. d. au VM; et donne les
-  c.p.p. ainsi que les m. à haute voix. <br />Ils se désengagent, se mettent à
+  c.p.p. ainsi que les m. à haute voix. <br />
+  Ils se désengagent, se mettent à
   l'o. Le 1er S salue le VM par le s. p. de MM., recouvre et revient à l'o. Le
   VM et le 1er S font, ensemble, demi-tour et chacun regagne, toujours à l'o.,
   sa chaire par le côté d. là il font le p. et restent à l'o.
@@ -108,17 +110,16 @@ Le VM se lève et les FF. l’imitent, dans un même mouvement.</p>
 <b>VM </b>: F. 1er S, les travaux de ce Grade étant terminés, je vous commende de
   fermer la L.
 </p>
-<p><b>VM </b>: -OO-O- (de la m. g.)</p>
+<p><b>VM </b>: -OO-O- <span className="com">(de la m. g.)</span></p>
 <p>
 <b>1er S </b>: Mes FF. au nom du Très HAUT, et par ordre du VM. Je ferme...
-  <span className="com"
-    >(Il fait le s.p. de MM., et tous les FF. l’imitent simultanément)</span
+  <span className="com"> (Il fait le s.p. de MM., et tous les FF. l’imitent simultanément)</span
   ><br />
   ... cette Loge de MM. -OO-O-
 </p>
 <p><b>2d S </b>: Les travaux sont donc fermés. -OO-O-</p>
-<p><b>C </b>: (va à la porte) -OO-O-</p>
-<p><b>T </b>: -OO-O-, le C. reviens à sa place.</p>
+<p><b>C </b>: <span className="com">(va à la porte)</span> -OO-O-</p>
+<p><b>T </b>: -OO-O-, <span className="com">le C. reviens à sa place.</span></p>
 <p className="com">Le 2d E change la pl. tr.</p>
 <p className="com">Le PMI arrange l'Eq. et le C.</p>
 <p className="com">Le VM s’assoit et invite les FF. à prendre place.</p>

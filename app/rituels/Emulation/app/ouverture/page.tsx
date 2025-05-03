@@ -110,7 +110,7 @@ function ouverture() {
             Tous les FF. font le p. et se mettent à l'O. d'Ap. en se réglant sur
             le VM
           </p>
-          .
+      
           <p>
             <b>VM </b>: F. 2d S., combien y a-t-il d'officiers principaux dans
             la L. ?
@@ -240,12 +240,10 @@ function ouverture() {
           </p>
           <p>
             <b>VM </b>: Mes FF., au nom du G.A. de l'U., je déclare la L. dûment
-            ouverte ...
-            <span className="com">
+            ouverte ... <span className="com">
               (Le VM fait le s.p. d'Ap. lorsqu'il prononce le mot « ouvert » et
               FF. l'imitent, en se réglant sur lui)
-            </span>
-            ... aux fins que s'assigne la F.M. au 1er Grade.
+            </span> ... aux fins que s'assigne la F.M. au 1er Grade.
           </p>
           <p>
             <b>VM </b>: -O-O-O- <br />

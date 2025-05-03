@@ -18,9 +18,9 @@ function page() {
       </p>
       <p>
         <b>VM </b>: Mes FF. Je me lève
-        <span className="com">(Le VM se lève)</span>
+        <span className="com"> (Le VM se lève) </span>
         pour la première fois
-        <span className="com">(puis la deuxième et la troisième) </span>pour
+        <span className="com"> (puis la deuxième et la troisième) </span>pour
         demander si l'un d'entre vous a quelque chose à proposer pour le bien de
         l'Ordre en général, ou pour celui de cette respectable Loge ... en
         particulier.
@@ -36,13 +36,13 @@ function page() {
         C'est à ce moment que les FF. visiteurs présentent leurs salutations.
       </p>
       <p>
-        <b>VM</b> : -O-
+        <b>VM</b> : - O -
       </p>
       <p>
-        <b>1er S</b>: -O-
+        <b>1er S</b>: - O -
       </p>
       <p>
-        <b>2d S </b>: -O-
+        <b>2d S </b>: - O -
       </p>
       <p>
         <b>VM </b>: Mes FF., unissez-vous à moi pour fermer la L.
@@ -72,11 +72,9 @@ function page() {
       </p>
       <span className="com">Le C. fait le s. p.</span> <br />
       <p>
-        <b>2e S </b>: -O-O-O-
-        <span className="com">
-          fait le p., se met à l'o. et s'adresse au V.M.
-        </span>
-        VM, la L. est bien c. (fait le s. p.)
+        <b>2e S </b>: -O-O-O- <span className="com">
+          fait le p., se met à l'o. et s'adresse au V.M. </span>
+        VM, la L. est bien c. <span className="com">(fait le s. p.)</span>
       </p>
       <p>
         <b>V.M </b>: F. 1er S., le second devoir ?
@@ -85,8 +83,7 @@ function page() {
         <b>1er S</b> : De s'assurer que les FF. se tiennent à l'o des M.
       </p>
       <p>
-        <b>V.M </b>: A l'o., mes FF., au 1er grade !
-        <span className="com">
+        <b>V.M </b>: A l'o., mes FF., au 1er grade ! <span className="com">
           Les FF. font le p. et se mettent à l'o. d'Ap. en se réglant sur le VM.
         </span>
       </p>
@@ -121,9 +118,7 @@ function page() {
       <p>
         <b> VM </b>: F. 1er S., notre tâche de ce soir étant terminée, je vous
         commande de fermer la L.
-        <span className="com">Le VM reste toujours à l'o. et de sa m. g. </span>
-        -O-O-O-
-        <span className="com">Il reste à l'ordre sans éteindre sa L.</span>
+        <span className="com">Le VM reste toujours à l'o. et de sa m. g. </span> - O - O - O - <span className="com">Il reste à l'ordre sans éteindre sa L.</span>
       </p>
       <p>
         <b>1er S </b>: Mes FF., à la G. du G. A. de l'U. et par ordre du V.M.,
@@ -131,28 +126,24 @@ function page() {
       </p>
       <p className="com">Les FF le s. p. d'A. en se réglant sur le 1er S.</p>
       <p>
-        <b>1er S</b> : -O-O-O-
-        <span className="com"> abaisse sa C. et éteint sa L. </span>
+        <b>1er S</b> : - O - O - O - <span className="com"> abaisse sa C. et éteint sa L. </span>
       </p>
       <p>
         <b>2d S </b>: Elle est en effet fermée jusqu'au .................. du
         mois de ............., sauf tenue d'urgence dont les FF. seraient dûment
-        avisés. -O-O-O-
-        <span className="com">
+        avisés. - O - O - O - <span className="com">
           lève sa C. et éteint sa L. Le 2ème E. retourne la P. T.
         </span>
       </p>
       <p>
         <span className="com">
-          Le P.M.I. ferme le V.S.L. Le VM. éteint alors sa l. Le PMI. Dispose le
-          C. et l'Eq. sur la couverture du VSL et y pose la main d. et dit :
+          Le P.M.I. ferme le V.S.L. Le VM. éteint alors sa l. <br />
+          Le PMI. Dispose le C. et l'Eq. sur la couverture du VSL et y pose la main d. :
         </span>
         <br />
         <b>P.M.I. </b>: Mes FF., il ne nous reste plus qu'à enfermer nos s. en
         lieu sûr, selon l'ancien usage en nous unissant dans notre serment de
-        F.-F.-F.
-        <span className="com">
-          En disant ces mots tous les FF se frappent le s. g. (signe de
+        F.-F.-F. <span className="com">En disant ces mots tous les FF se frappent le s. g. (signe de
           fidélité) par trois fois.
         </span>
       </p>

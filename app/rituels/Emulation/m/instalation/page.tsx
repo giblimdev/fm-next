@@ -75,12 +75,9 @@ function page() {
           fin de chaque article qui lui est lu. Ce dernier marque un temps à la
           fin de chaque article, pour donner au ME., le temps de faire le s. de
           Fi.
-        </span>{" "}
-        <br />
-        <b>Sec.I. :</b>
-        <span className="com">
-          (se lève et donne lecture des articles suivants)
         </span>
+        <br />
+        <b>Sec.I. :</b> <span className="com"> (se lève et donne lecture des articles suivants)</span>
         <br />
         1° Vous vous engagez à vous conduire honorablement et honnêtement et à
         suivre consciencieusement les lois de la morale. <br />
@@ -150,7 +147,7 @@ function page() {
           Le ME s'avance vers l'Autel en retirant ses gants.
         </span>
         <br />
-        <b>VMI</b>: Agenouillez-vous sur le g.d. et placez votre m.d. sur le
+        <b>VMI </b>: Agenouillez-vous sur le g.d. et placez votre m.d. sur le
         VLS.
         <br />
         <span className="com">Le ME exécute</span>
@@ -256,9 +253,10 @@ function page() {
       </p>
 
       <h2>RETOUR DES MM., Cp. Et Ap.</h2>
-      <p>
+      <p className="com">
         Le VMI reprend les travaux au Troisième Grade. Le VMI. Se tient debout à
-        la g. du VM et dit : <br />
+        la g. du VM et dit : </p>
+        <p>
         <b>VMI</b> : VF. <span className="com">(ou TVF ou RF.)</span> DCI,
         veuillez admettre les MM. <br />
         <span className="com">
@@ -266,12 +264,10 @@ function page() {
           longer la Col. du N. Le DCI vient se placer dans l'angle N.E., face au
           M. et les MM. se rangent, en ligne, face au M., le long de la Col. du
           N.
-        </span>{" "}
+        </span>
         <br />
         <b>VMI : </b>Mes FF., veuillez faire le tour de la L. et saluer en
-        passant le VM en MM.{" "}
-        <span className="com">
-          Le VMI peut dispenser les MM. visiteurs et les inviter à prendre place
+        passant le VM en MM. <span className="com">Le VMI peut dispenser les MM. visiteurs et les inviter à prendre place
           sur les Col. <br />
           Les MM. font face à l'Or. et, suivant l'exemple du DCI, tournent
           l'angle N.E. À l'Eq., repartent su p. g. et, chacun à leur tour, sans
@@ -289,16 +285,13 @@ function page() {
         …... dans le registre de la …......, jusqu’à la date fixée pour la
         prochaine élection dans cette L. et jusqu'à ce qu'un successeur ait été
         dûment élu et installé à sa place, et je vous invite à la saluer en MM.,
-        par t., en vous réglant sur le DCI.
-        <span className="com">
+        par t., en vous réglant sur le DCI. <span className="com">
           Le DCI vient sa placer face à la ligne des MM., c'est à dire face au
           N., puis il dit :
         </span>
         <br />
-        <b> DCI :</b> Mes FF. face à l'Est. A l'o. Mes FF.
-        <span className="com"> (Les FF. font le p.)</span>
-        Avec moi mes FF.
-        <span className="com">
+        <b> DCI :</b> Mes FF. face à l'Est. A l'o. Mes FF. <span className="com"> (Les FF. font le p.) </span>
+        Avec moi mes FF. <span className="com">
           En se réglant sur le DCI, les FF. font t. fois le G.S. ou S.R. en se
           frappant les m. au faîte (c'est le seul cas où on fait claquer les m.
           dans ce s. et en laissant retomber les m. le long du corps en frappant
@@ -307,7 +300,7 @@ function page() {
           au VM.
         </span>
         <br />
-        <b>VMI. :</b> Je vous présente maintenant les outils de travail du MM.
+        <b>VMI :</b> Je vous présente maintenant les outils de travail du MM.
         Ce sont le cor., le Cr. et le Comp. Le Cor. est un instrument qui tourne
         sur un tige lui servant de pivot, et dont on tire une cordelette, pour
         faire sur le sol un tracé des fondation de l'édifice que l'on veut
@@ -316,7 +309,7 @@ function page() {
         Comp. le met à même de mesurer et de fixer, avec exactitude et
         précision, les limites et les proportions des différentes parties de la
         construction. <br />
-        Or, comme nous ne sommes pas tous des MM.opératifs, mais des MM. Francs
+        Or, comme nous ne sommes pas tous des MM. opératifs, mais des MM. Francs
         et acceptés, ou MM. symbolique, nous appliquons ces outils à notre
         conduite morale. <br />
         Dans ce sens, le Cor. Nous indique cette ligne de conduite,
@@ -332,32 +325,31 @@ function page() {
         Créateur, afin nous puissions, en quittant ce séjour terrestre, nous
         élever jusqu'à la Grande Loge Éternelle, là où le Grand Architecte du
         Monde demeure et règne à Tout jamais. <br />
-        <b>VMI :</b> <span className="com">(Au VM.)</span> Vous pouvez
+        <b>VMI :</b> <span className="com">( au VM.)</span> Vous pouvez
         maintenant fermer la L. au Troisième Grade. <br />
         <span className="com">
           Le VM ferme la loge au Troisième Grade. Lorsque cela et fait le VMI
-          dit :{" "}
+          dit :
         </span>
         <br />
-        <b>VMI :</b> FCI., veuillez admettre les Cp.
-        <span className="com">
+        <b>VMI :</b> FCI., veuillez admettre les Cp. <span className="com">
           Le CI. ouvre la porte et fait entrer les Cp., sans saluer, et leur
           souffle de se ranger en tête de la ligne des MM. face au M. Ils
           viennent former une autre ligne devant les MM., guidé par le DCI. Les
-          Cp. Visiteur peuvent prendre place sur la Col. Du M.
-        </span>{" "}
+          Cp. Visiteur peuvent prendre place sur la Col. du M.
+        </span>
         <br />
         <b>VMI :</b> Mes FF., veuillez faire le tour de la L. et saluer en
-        passant le VM. en Cp. Sous la conduite de DCI., les FF. se tourne vers
+        passant le VM. en Cp. <span className="com">Sous la conduite du DCI., les FF. se tourne vers
         l'Or. Puis les Cp. suivent le DCI. et l'imitent. Ainsi chaque F.
         contournant l'angle N.E., à l'Eq., sans s'arrêter, fait le s.p. de Cp.
         en passant devant la chaire du VM., face au M., et poursuit le tour de
         la L. en contournant les angles à l'Eq. Les MM. se mettent à la suite
-        des Cp. et saluent à leur tour le VM. En Cp. Le VMI de met à la suite du
+        des Cp. et saluent à leur tour le VM. En Cp. Le VMI se met à la suite du
         dernier MM. sur la Col. du M. et le suit jusqu'à la g. de la chaire du
         1er S. là , il s'arrête et fait face à l'Or. Les FF., après avoir fait
         le tour de la L., reviennent à leur position de départ, le long de la
-        col. du N. face au M.
+        col. du N. face au M.</span>
         <br />
         <b>VMI : </b>Mes FF., durant votre absence temporaire, le F.
         .................. a été régulièrement installé dans la chaire du R.S.
@@ -369,18 +361,17 @@ function page() {
         le DCI. <br />
         <span className="com">
           Le DCI. Vient se placer face à la ligne des Cp., c'est à dire face à
-          la col. Du N., puis il dit{" "}
-        </span>{" "}
+          la col. du N., puis il dit
+        </span>
         <br />
-        <b>DCI :</b> Mes FF. face à l'Est. A l'O. Mes FF.{" "}
-        <span className="com">(Les FF. font le p. et se mettent à l'o)</span>{" "}
-        avec moi mes FF.{" "}
-        <span className="com">
-          Puis par c. fois, il fait le signe co. ma. tab. et les FF. se règle
+        <b>DCI :</b> Mes FF. face à l'Est. a l'O. Mes FF. 
+        <span className="com"> (Les FF. font le p. et se mettent à l'o)</span>{" "}
+        avec moi mes FF. <span className="com">
+          Puis par c. fois, il fait le signe coeur ma. tab. et les FF. se règle
           sur lui. <br />
           Puis le DCI. se place en tête de ligne. Pendant ce temps, le PMI.
           dispose les outils du Grade sur le coté g. de la chaire du VM.
-        </span>{" "}
+        </span>
         <br />
         <b>VMI</b> : <span className="com">(au VM.)</span> Je vous présente,
         maintenant les outils de travail du Cp. FM. Ce sont : l’équerre, le
@@ -400,16 +391,14 @@ function page() {
         jusqu'à ces demeures immortelles d'où rayonnent toutes les Vertus.
         <br />
         <b>VMI : </b>
-        <span className="com">Poursuivant et s'adressant au VM.</span> Veuillez,
+        <span className="com"> Poursuivant et s'adressant au VM. </span> Veuillez,
         maintenant fermer la L. au Deuxième Grade.
-        <span className="com">
-          Le VM ferme la L. au Deuxième grade. Lorsque les travaux sont au
+        <span className="com"> Le VM ferme la L. au Deuxième grade. Lorsque les travaux sont au
           Premier Grade le VMI. Dit :
-        </span>{" "}
+        </span>
         <br />
         <b>VMI</b> : F. DCI., veuillez admettre les Ap. <br />
-        <span className="com">
-          Le CI. ouvre la porte, admet les Ap. et leur souffle d'entrer sans
+        <span className="com"> Le CI. ouvre la porte, admet les Ap. et leur souffle d'entrer sans
           saluer et de se mettre en ligne à côté du DCI. Guidé par le DCI., les
           Ap. Viendront former une troisième ligne devant celles des MM. et des
           Cp. et ils se placent face au S. selon les instructions donnés par le
@@ -480,13 +469,13 @@ function page() {
         les dignes membres d'une Société régulièrement organisée.
         <br />
         <b>VMI : </b>
-        <span className="com">(Aux FF.)</span>
+        <span className="com">(Aux FF.) </span>
         Mes FF., veuillez reprendre vos places.
         <br />
         <span className="com">
           Les FF. vont s’asseoir sur les col. <br />
           Le PMI donne la charte de la L. au VMI et celui-ci poursuit :
-        </span>
+        </span> <br />
         <b>VMI : </b> confie tout spécialement à votre garde la charte de la L.{" "}
         <span className="com">(Il. donne la charte au VM.) </span> Depuis sa
         fondation, elle a été successivement remise entre les mains de FF. aussi
@@ -500,10 +489,10 @@ function page() {
         le faire lire dans la L. au moins une fois dans l'année, afin que les
         FF. ne puissent prétendre l'ignorer.
       </p>
-
+<br />
       <h1>INVESTITURE DU COLLEGE</h1>
       <p>
-        <b> VMI. </b>: Poursuivant VM., veuillez maintenant nommer vos Officiers
+        <b> VMI </b>: Poursuivant VM., veuillez maintenant nommer vos Officiers
         et les investir. Le DCI. Vient se placer devant la chaire du VM., à
         environs quatre pas, fait le p., cale sa v. se met à l'o. d'Ap. et dit :{" "}
         <br />
@@ -520,11 +509,11 @@ function page() {
         <b>VM</b> : <span className="com">Se lève et s'adressant au F.</span>
         <br />
         F. …........., je vous nomme mon Premier Surveillant et vous investis en
-        conséquence, des insignes de votre charge.{" "}
+        conséquence, des insignes de votre charge.
         <span className="com">
           Le DCI. tend au VM. Le Col. celui-ci le passe autour du cou du 1er S.
           prend le bijou, puis dit :
-        </span>{" "}
+        </span>
         Le Niv. étant l'emblème de l'égalité, symbolise l'égalité en L., qu'il
         est de votre devoir de faire régner, en accord avec moi, pour bien régir
         et gouverner cette dernière. <br />
@@ -543,10 +532,10 @@ function page() {
         devoir est de symboliser le soleil à son couchant et de clore la L., de
         par mon commandement, après vous être assuré que chaque F. a reçus son
         dû. <br />
-        <span className="com"> Le VM.</span>
+        <span className="com"> Le VM.
         serre la m. du 1er S. et s’assoit.
         <br />
-        <span className="com">
+        
           Le DCI. conduit directement le 1er S. à sa chaire, où celui-ci prend
           place par le côté d., tandis que le 1er SI. la quitte par le coté g.{" "}
           <br />
@@ -555,22 +544,22 @@ function page() {
           se met à l'o. d'Ap., et dit :
         </span>
         <br />
-        <b>DCI</b> : VM, qui nommez-vous votre 2d S. ? VM : Le F.
-        ............... <br />
-        <span className="com">
+        <b>DCI</b> : VM, qui nommez-vous votre 2d S. ?</p> 
+        <p><b>VM </b>: Le F. ............... </p>
+        <p><span className="com">
           (Le F. nommé se lève et attend). <br />
           Le DCI. fait le s.p. d'Ap., puis, va à la chaire du 2d. S. où il prend
           le Col, le Ma. et la Co., va chercher le F. nommé, le prend par la
           m.d. et, partant du p.g., le conduit à la d. (ou à la g.) de la chaire
-          du VM.{" "}
-        </span>{" "}
-        <br />
+          du VM.
+        </span>
+        </p>
+        <p>
         <b>VM </b>: <span className="com">(se lève et s'adressant F.)</span>{" "}
         <br />
         F. …........, je vous nomme mon Second Surveillant et vous investis, en
         conséquence, des insignes de votre charge. <br />
         <span className="com">
-          {" "}
           Le DCI. tend au VM. Le Col. Celui-ci le passe au 2d. S., prend sa m.g.
           le bijou, puis poursuit.
         </span>
@@ -585,10 +574,10 @@ function page() {
         parvienne à se faire admettre dans nos assemblées et que, de ce fait,
         les FF. se trouvent, en toute bonne foi, avoir été conduits à violer
         leur Ob. <br />
-        <span className="com">Le VM. prend le Ma.</span>
+        <span className="com">Le VM. prend le Ma. </span>
         <br />
         Je place, en conséquence, dans votre main ce Ma... <br />
-        <span className="com">(il le donne au 2d S.) …</span>
+        <span className="com">(il le donne au 2d S.) … </span>
         emblème du pouvoir, pour vous habiliter à m'assister ainsi que votre F.
         1er S., pour faire régner l'ordre dans la L., plus particulièrement au
         M.
@@ -596,13 +585,13 @@ function page() {
         Je vous présente également la Co. correspondant à votre fonction, que
         vous placerez couchée horizontalement lorsque les travaux de la L.
         seront ouverts, et debout lorsque la L. sera appelée du travail au repos{" "}
-        <span className="com">(il lui donne la Co.)</span>
+        <span className="com">(il lui donne la Co.) </span>
         Cet article se trouvant commis à votre ministère immédiat, car vous êtes
         l'intendant de la L. Votre place est au M., votre devoir est de
         symboliser le Soleil à la méridienne et d'appeler les FF. du travail au
         repos et du repos au travail, pour leurs plus grand profit et plaisir.
-        Le VM. serre la main du 2d. S. puis s'assied. <br />
         <span className="com">
+          Le VM. serre la main du 2d. S. puis s'assied. <br />
           Le DCI. conduit directement le 2d S. à sa chaire, où il entre par le
           d., tandis que le 2d SI. la quitte par la g. <br />
           Le DCI. prend le 2d SI par la m. d. et partant du pied g., le conduit
@@ -611,7 +600,8 @@ function page() {
           Puis le DCI. vient se placer à distance convenable de la chaire du VM.
           fait le p., cales sa v., se met à l'o. d'Ap. et dit :
         </span>
-        <br />
+        </p>
+        <p>
         <b>DCI</b> : VM., qui nommez-vous votre Hospitalier. ? <br />
         <b>VM</b> : Le F. ............ <br />
         <span className="com">
@@ -619,11 +609,14 @@ function page() {
           Col. correspondant, va chercher le F. nommé, le prend par la m.d. et,
           partant du p.g., le conduit à d. (ou à la g.) de la chaire du VM.
         </span>
-        <b>VM</b> : F. …......, je vous nomme Hospitalier de la L. et vous
-        investis, en conséquence de l'insigne de votre charge. Il lui passe le
+        </p>
+        <p>
+          <b>VM</b> : F. …......, je vous nomme Hospitalier de la L. et vous
+        investis, en conséquence de l'insigne de votre charge. <br /> 
+        <span className="com">Il lui passe le
         Col. que lui tend le DCI.
         <br />
-        <span className="com">
+        
           Le VM peut encore prononcer quelques mots à sa discrétion, puis le
           DCI. conduit l'Hospitalier à un siège. Il revient face à la chaire du
           VM, fait le p. cale sa v. se met à l'o. et dit :
@@ -633,7 +626,7 @@ function page() {
         de l'investir?
         <br />
         <b>VM</b> : Oui.
-        <span className="com">(Le Trés. élu se lève et attend).</span>
+        <span className="com"> (Le Trés. élu se lève et attend).</span>
         <br />
         <b>VM</b> : F ............, Vous êtes l'élu de la L. et j'ai le plaisir
         de vous investir des insignes de votre charge : une clef suspendue à un
@@ -670,7 +663,7 @@ function page() {
         et habilité. <br />
         <span className="com">
           Le autres Off. sont installé selon la formule suivante
-        </span>{" "}
+        </span>
         <br />
         <b> VM. </b>: F. …......., je vous nomme …...... de la L. et vous
         investis, en conséquence, des insignes de votre charge. <br />
@@ -681,9 +674,8 @@ function page() {
         qui ont été t., de recevoir les Cand. en due forme et d'obéir aux ordres
         du 2d. S.
         <br />
-        <b>VM</b> : -00- (rapprochés).
-        <span className="com">
-          Le C. va à la porte, laisse entrer le T. qui a son glaive à la m. g.,
+        <b>VM</b> : -00- <span className="com">(rapprochés)</span>. <br />
+        <span className="com"> Le C. va à la porte, laisse entrer le T. qui a son glaive à la m. g.,
           pointé vers le sol. et le Col. sur l'av. b.g. Il s'arrête à g. de la
           chaire du 1er S., fait le p. et le s.p. d'Ap., puis avance vers la
           chaire du VM., et se présente à d. (ou à g. selon son rang), tend le

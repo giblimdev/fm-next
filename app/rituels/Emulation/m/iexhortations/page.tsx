@@ -7,7 +7,7 @@ function page() {
     <p>
       <span className="com">Le VMI. va seul et directement à la g du 1er S., fait
       face au VM. puis fait le pas et le s.p. d'Ap et prononce l’allocution suivante :</span><br />
-      VMI. : VM., puisque vous venez d'être installé dans la chaire de cette Digne
+      VM., puisque vous venez d'être installé dans la chaire de cette Digne
       et Vénérable L., vous ne pouvez être insensible, ni aux obligations qui vous
       incombent comme son chef, ni à la responsabilité que vous assumez de vous
       acquitter fidèlement des devoirs de votre charge. <br />
@@ -44,7 +44,7 @@ function page() {
     <p>
       <span className="com">Le VMI., ou le PM. préalablement désigné, se dirige ensuite à la g. de la
         chaire du VM. FF.</span><br />
-      <b>PM</b> : FF. Première et Second Surveillants, le VM. vous a nommés aux
+      FF. Première et Second Surveillants, le VM. vous a nommés aux
       principaux emploi et, puisque vous les avez acceptés, vous devez vous
       considérer comme engagés à accomplir scrupuleusement vos devoirs et à assister
       régulièrement aux tenus pendant toute la durée de votre mandat. <br />

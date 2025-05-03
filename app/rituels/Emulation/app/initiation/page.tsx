@@ -27,7 +27,7 @@ function page() {
       </p>
       <p>
         <b>2d S </b>
-        <span className="com"> fait le s. p. de l'Ap. et s’assoit</span>: F. C.,
+        <span className="com"> fait le s. p. de l'Ap. et s’assoit</span> : F. C.,
         voyez qui demande l'entrée de la L.
       </p>
       <p className="com">
@@ -40,9 +40,8 @@ function page() {
         <b>C</b> : Qui va là ?
       </p>
       <p>
-        <b>T </b>:&nbsp;
-        <span className="com"> (à haute voix pour être entendu de l'int. de la L.)</span>
-        Monsieur X..........., un pauvre candidat privé de Lumière qui a été
+        <b>T </b>:&nbsp;<span className="com"> (à haute voix pour être entendu de l'int. de la L.)</span>
+        &nbsp;Monsieur X..........., un pauvre candidat privé de Lumière qui a été
         chaleureusement et honorablement recommandé, régulièrement proposé et
         approuvé en L. ouverte, et qui se présente aujourd'hui librement et de
         son plein gré, convenablement préparé, pour solliciter humblement d'être
@@ -63,7 +62,7 @@ function page() {
         Le C. referme la porte, se place à gauche du 1er S. et se met à l'ordre
       </p>
       <p>
-        <b>C </b>: <span className="com"> au VM. </span> V.M., Monsieur X....,
+        <b>C </b>: <span className="com"> (au VM.) </span> V.M., Monsieur X....,
         un pauvre candidat privé de lumière, qui a été chaleureusement et
         honorablement recommandé, régulièrement proposé et approuvé en Loge
         ouverte, et qui se présente aujourd'hui librement et de son plein gré,
@@ -111,8 +110,7 @@ function page() {
         êtes un homme libre et âgé d'au moins 21 ans.
       </p>
       <p>
-        <b>Cand </b>: .............
-        <span className="com">
+        <b>Cand </b>: ............. <span className="com">
           Réponse du candidat. Le 2ème E. ne doit pas souffler mais inciter
           seulement le candidat à répondre lui-même à cette question.
         </span>
@@ -121,7 +119,7 @@ function page() {
         <b>VM </b>: Puisqu'il en est ainsi, je vous prie de vous ag. pendant
         que nous invoquerons la bénédiction divine sur nos travaux.
       </p>
-      <br />
+      
       <p>
         <b>VM </b>: -O-
       </p>
@@ -149,7 +147,7 @@ function page() {
         véritable Piété, en l'Honneur et à la Gloire de Ton Saint Nom.
         </p>
       <p>
-        <b>PMI </b>: <span className="com"> seul &nbsp;</span> Ainsi soit-il.{" "}
+        <b>PMI </b>: <span className="com"> (seul)&nbsp;</span> Ainsi soit-il.{" "}
       </p>
       <p className="com">
         Tous cessent le s. de Foi et les EE. abaissent leur v.{" "}

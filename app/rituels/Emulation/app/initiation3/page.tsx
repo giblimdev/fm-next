@@ -34,14 +34,14 @@ function page() {
         le symbole de l'innocence et le lien de l'amitié. <br />
         Je vous exhorte de tout mon pouvoir à le porter et à le considérer
         toujours comme tel ; et je vous déclare en outre que si vous ne
-        déshonorez jamais cet insigne
+        déshonorez jamais cet insigne,
       </p>
       <p className="com">
         (le 1er S frappe avec force l'insigne de la main droite ; les FF.
         frappent en même temps leur t. avec la main droit ayant glissé leur m.g.
         sous leur tablier)
       </p>
-      <p>, il ne vous déshonorera jamais !</p>
+      <p>il ne vous déshonorera jamais !</p>
       <p className="com">
         Le 1er S rend la m. du candidat au 2ème E qui est revenue à la d. du
         Cand et se rassoit. Le 2ème E et le candidat font face au VM. Celui-ci
@@ -100,8 +100,7 @@ function page() {
         il y en a, il faut bien le reconnaître, qui par suite peut-être de
         calamités et de malheurs inévitables, se trouvent réduits au dernier
         degré de la pauvreté et de la misère. <br />
-        C'est en faveur de ces malheureux
-        que nous avons coutume d'éveiller les bons sentiments dans le cœur de
+        C'est en faveur de ces malheureux que nous avons coutume d'éveiller les bons sentiments dans le cœur de
         tout nouveau frère en lui demandant de pratiquer la charité selon ses
         moyens. Déposez donc entre les mains du 2ème Expert l'obole que vous
         êtes disposé à verser. Elle sera reçue avec reconnaissance et distribuée
@@ -322,7 +321,6 @@ function page() {
         que la Prudence vous dirige, que la Tempérance vous modère, que le
         Courage vous soutienne, et que la Justice soit le guide de toutes vos
         actions. <br />
-        <br />
         Ayez grand soin surtout de conserver dans tout leur éclat ces joyaux
         vraiment maçonniques dont je vous ai déjà longuement entretenu, la
         Bienfaisance et la Charité. <br />

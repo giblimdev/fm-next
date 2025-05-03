@@ -7,7 +7,7 @@ function page() {
       <h1>SUSPENSION et REPRISE DES TRAVAUX</h1>
 <h2>SUSPENSION DES TRAVAUX</h2>
 
-<p><b>VM </b> : (- 0 -) 1er S. : (- 0 -) 2d S. : (- 0 -)</p>
+<p><b>VM </b> : - 0 - 1er S. : - 0 - 2d S. : - 0 -</p>
 <p><b>VM</b> : A moi FF. SS. !</p>
 <p className="com">Le VM. et les SS. Se lèvent tandis que les FF. Restent assis</p>
 <p><b>VM </b>: F. 2d S. quelle heure est-il ?</p>
@@ -20,7 +20,7 @@ function page() {
   Demeurez à portée de voix afin de pouvoir revenir, en temps opportun, pour
   notre plus grand profits et plaisir.
 </p>
-<p><b>2d S </b>: (- 0 -) 1er S. : (- 0 -) VM. : (- 0 -)</p>
+<p><b>2d S </b>: - 0 - 1er S. : - 0 - VM. : - 0 -</p>
 <p className="com">
   Le PMI ferme le VSL sans déplacer l'Eq. Et le C. <br />
   le 2d S dresse sa c. et éteint sa l. <br />
@@ -30,7 +30,7 @@ function page() {
 
 <h2>REPRISE DES TRAVAUX</h2>
 
-<p><b>VM </b>: (- 0 -) 1er S. : (- 0 -) 2d S. : (- 0 -)</p>
+<p><b>VM </b>: - 0 - 1er S. : - 0 - 2d S. : - 0 -</p>
 <p><b>VM </b>: A moi FF. SS. !</p>
 <p className="com">Le VM. et les SS. Se lèvent tandis que les FF. Restent assis</p>
 <p><b>VM </b>: F. 2d S. quelle heure est-il ?</p>
@@ -42,7 +42,7 @@ function page() {
 <b>2d S </b>: Mes FF. Par ordre du VM., veuillez reprendre le travail et poursuivre
   votre tâche maçonnique.
 </p>
-<p><b>2d S </b>: -0- <b>1er S</b> : -0- <b>VM </b>: -0-</p>
+<p><b>2d S </b>: - O - <b>1er S</b> : - O - <b>VM </b>: - O -</p>
 <p className="com">
   Le 2d S abaisse sa C. <br />
   Le 1er S dresse sa C. <br />
@@ -57,7 +57,7 @@ function page() {
   grade précédent.
 </p>
 
-<p><b>VM </b>: -O- ; <b>1er S</b> : -O- ; <b>2d S</b> : -O-</p>
+<p><b>VM </b>: - O - ; <b>1er S</b> : - O - ; <b>2d S</b> : - O -</p>
 
 <p>
 <b>VM </b>: Mes FF. en vertus des pouvoir qui n’ont été conféré, Les travaux de la
@@ -92,7 +92,7 @@ function page() {
   Le VM prie le parrain de présenter et de parler du Cand. Les enquêteurs
   présentent leurs conclusions
   <span className="com"
-    >(les enquêtes peuvent être lus. Ce n’est pas une obligation)</span>
+    > (les enquêtes peuvent être lus. Ce n’est pas une obligation)</span>
   <br />
   Il n’y aucun commentaire. <br />
   La candidature donne lieu alors aux votes par ballots. <br />
@@ -108,7 +108,7 @@ function page() {
   Le 1er E. distribue à chaque F. une boule blanche et une boule noire en
   commençant par le PMI et en finissant par le VM. <br />
   Le 2d E. montre au VM et aux FF. que l’urne est vide
-  <span className="com">(il monte à la gauche du VM.)</span>, puis il collecte les
+  <span className="com"> (il monte à la gauche du VM.) </span>, puis il collecte les
   boules. <br />
   pour un vote favorable le F. aura pris soins de mette la boule blanche du
   côté blancs et la boule noire du côté noir

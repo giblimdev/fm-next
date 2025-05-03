@@ -16,35 +16,29 @@ function page() {
 </p>
 <p><b>VM </b>: F 2d Surveillant, quel est le premier devoir de tout MM. ?</p>
 <p>
-<b>2d S </b>: <span className="com">Tourne la tête vers le VM </span> C'est de
+<b>2d S </b>: <span className="com">(Tourne la tête vers le VM) </span> C'est de
   s'assurer que la L. est bien couverte.
 </p>
 <p><b>VM </b>: Veuillez faire accomplir ce devoir.</p>
 <p>
-<b>2d S </b>: <span className="com">Tourne la tête vers le C. </span> F. C. assurez-vous
+<b>2d S </b>: <span className="com">(Tourne la tête vers le C.) </span> F. C. assurez-vous
   que la L. est bien couverte.
 </p>
 <p>
-<b>C </b>: <span className="com">Va à la porte</span> (-O-OO-)
+<b>C </b>: <span className="com">(Va à la porte)</span> (-O-OO-)
   <span className="com"> (sauf si un Cand. est à l'extérieur) </span>
 </p>
 <p>
-<b>T </b>: <span className="com">Répond</span> (-O-OO-)
+<b>T </b>: <span className="com">(Répond)</span> (-O-OO-)
   <span className="com"> (sauf si un Cand. est à l'extérieur) </span>
 </p>
 <p>
 <b>C </b>: <span className="com"
     >Revient à sa place, fait le pas, se met à l'ordre de Cp., tourne la tête
-    vers le 2d S et dit :
-  </span>
-  F. Second Surveillant, la L. est bien couverte. Il fait le signe pénal.
+    vers le 2d S et dit : </span> F. Second Surveillant, la L. est bien couverte. Il fait le signe pénal.
 </p>
 <p>
-<b>2d S </b>: (-O-OO-)
-  <span className="com"
-    >Il se lève, fait le pas, et se met à l'ordre des Cp., tourne la tête vers
-    le VM et dit </span>: VM, la Loge est bien couverte.
-  <span className="com">Puis il fait le signe pénale Cp. et s’assoit.</span>
+<b>2d S </b>: (-O-OO-) <span className="com"> (Il se lève, fait le pas, et se met à l'ordre des Cp., tourne la tête vers le VM)</span> VM, la Loge est bien couverte. <span className="com">Puis il fait le signe pénale Cp. et s’assoit.</span>
 </p>
 <p><b>VM </b>: F. 1er Surveillant, qu'elle est le second devoir ?</p>
 <p><b>1er S </b>: De s’assurer que les frères se tiennent à l'ordre de Cp.</p>
@@ -115,10 +109,8 @@ function page() {
 </p>
 <p><b>PMI </b>: <span className="com"> (seul) </span> Ainsi soit-il !</p>
 <p>
-<b>VM </b>: Mes FF. au nom du Très Haut, je déclare la L. dûment ouverte....
-  <span className="com">
-    (Le VM fait le signe sans recouvrir, imité par tous les FF.)
-  </span>
+<b>VM </b>: Mes FF. au nom du Très Haut, je déclare la L. dûment ouverte.... <span className="com">
+    (Le VM fait le signe sans recouvrir, imité par tous les FF.) </span>
   … sur le Centre aux fins que s'assigne la FM. au Troisième Grade.
 </p>
 <p><b>V.M </b>: (- OO - O -)</p>

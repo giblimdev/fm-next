@@ -14,7 +14,7 @@ function page() {
               height={300}
             />
       
-     
+     <br />
       <p>
         Quand le Temple de Jérusalem fut achevé par le Roi Salomon, il devint,
         par sa richesse et sa splendeur, un objet d'admiration pour les nations
@@ -34,7 +34,7 @@ function page() {
         creuse avaient une épaisseur de quatre pouces, soit la largeur d'une
         main. Elles étaient en airain et avaient été coulées dans les plaines{" "}
         <br />
-        du Jourdain, dans les terre glaises, en SOUCCOTH et TSEREDATAH ou le Roi
+        du Jourdain, dans les terre glaises, entre SOUCCOTH et TSEREDATAH ou le Roi
         Salomon ordonna de les couler, ainsi que tous ses vases sacrés. <br />
         Le Surintendant des opérations de coulage était H. A. <br />
         Ces colonnes étaient ornées de deux chapiteau de cinq coudées de haut
@@ -107,8 +107,8 @@ function page() {
         prononcer correctement ce mot, mais disaient "S.........". Cette simple
         différence découvrait leur origine et leur coûtait la vie. Les Écritures
         nous apprennent qu'il tomba, ce jour-là, sur le champ de bataille et sur
-        les rives du Jourdain, quarante-deux mille des gens d'Ephraïm (Juges
-        XII, 1-6). <br />
+        les rives du Jourdain, quarante-deux mille des gens d'Ephraïm <span className="com">(Juges
+        XII, 1-6)</span>. <br />
         Comme Sch....... fut alors le mot employé pour distinguer les amis des
         ennemi, le Roi Salomon ordonna plus tard qu'on l'adopta comme mot de
         Passe dans les Loges de Compagnons pour empêcher toute personne non
@@ -155,12 +155,8 @@ function page() {
         certains caractères hébraïques représentés ici par la lettre G, <br />
         <span className="com">
           A l'énoncé de G., le PMI., le 1er S. et le 2d S. ensemble, frappe un
-          coup (-O-) puis le VM. Poursuit
-        </span>
-        référant à Dieu,
-        <span className="com">
-          (il fait le signe de Foi, imité par les Frères)
-        </span>
+          coup (-O-) puis le VM. Poursuit </span> référant à Dieu, <span className="com">
+          (il fait le signe de Foi, imité par les Frères) </span>
         <br />
         le Grand G. de l'Univers, à qui nous devons tous nous soumettre et que
         nous devons humblement adorer. <br />

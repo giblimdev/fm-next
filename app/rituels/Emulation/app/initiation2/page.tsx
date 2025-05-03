@@ -15,13 +15,8 @@ function page() {
         <br />
         de mon plein gré et consentement, […]
         <br />
-        par ceci
-        <span className="com">
-          (le V.M. touche de sa m. g. celle du candidat)
-        </span>
-        et sur ceci
-        <span className="com">(le V.M. de sa m. g. touche le V.S.L.)</span>
-        […]
+        par ceci <span className="com"> (le V.M. touche de sa m. g. celle du candidat)
+        </span> et sur ceci <span className="com">(le V.M. de sa m. g. touche le V.S.L.)</span> […]
         <br />
         sincèrement et solennellement, je promets et jure […]
         <br />
@@ -218,21 +213,15 @@ function page() {
         <b>VM </b>: Le s. est donné en plaçant votre m. d. dans cette position
         <span className="com"> (s . d'Ap. ) </span> ... Ceci est une allusion au
         châtiment indiqué dans votre Ob. et cela signifie que comme homme
-        d'honneur et comme M., vous préféreriez a. l. g. t .
-        <span className="com">
-          (le VM fait le signe pénal d'Ap. imité par le Cand.){" "}
-        </span>
-        plutôt que de dévoiler mal à propos les s. qui vous ont été confiés.{" "}
+        d'honneur et comme M., vous préféreriez a. l. g. t. <span className="com">
+          (le VM fait le signe pénal d'Ap. imité par le Cand.) </span> plutôt que de dévoiler mal à propos les s. qui vous ont été confiés.{" "}
         <br />
-        L'at. ou g. se donne en ...
-        <span className="com">
+        L'at. ou g. se donne en ... <span className="com">
           Le VM prend la main droite du Cand. et ajuste le doigt et commente
-        </span>
-        … en plaçant le p. de la m. d. à l'éq. sur la pr. jointure de la m. d.
+        </span> … en plaçant le p. de la m. d. à l'éq. sur la pr. jointure de la m. d.
         de votre vis-à-vis. <br />
         <span className="com">
-          Le VM Conserve lam. du Cand. pendant ce qui va suivre.
-        </span>
+          Le VM Conserve lam. du Cand. pendant ce qui va suivre. </span>
         Cet att., donné et reçu selon les règles, sert à reconnaître un F. dans
         les t. aussi bien qu'en p. j. Cet at. ou g. demande un m., m. hautement
         estimé parmi les M. car il est la sauvegarde de leurs privilèges. C'est
@@ -256,7 +245,7 @@ function page() {
       </p>
       <p>
         <b>Cand </b>:
-        <span className="com"> (le 2d E souffle à haute voix,) </span> L'a. ou
+        <span className="com"> (le 2d E souffle à haute voix) </span> L'a. ou
         g. de l'Ap. F.M.
       </p>
       <p>
@@ -269,11 +258,9 @@ function page() {
         <b>VM </b>: Donnez-moi ce m.
       </p>
       <p>
-        <b>Cand </b>:
-        <span className="com">
+        <b>Cand </b>: <span className="com">
           (Le 2d E souffle immédiatement au Cand. afin qu'il ne dise pas le
-          mot)
-        </span>
+          mot) </span>
         A mon initiation, on m'a enseigné la p. je l'é. ou j'en d. la m. avec
         vous.
       </p>
@@ -295,7 +282,7 @@ function page() {
         <b>VM </b>: Ce m. vient de la c. g. qui ornait le p. ou e. du T. du R.
         S., ainsi nommé d'après ......., le b. de D., P. et C. d'I. <br />
         Le sens de ce mot est : en F........... <br />
-        Passez B..............{" "}
+        Passez B..............
       </p>
       <p className="com">
         Ce disant le VM. élève légèrement la main du Cand et la rend au 2d E. Le
@@ -304,7 +291,7 @@ function page() {
         au S, lui souffle de partie du pied d. et tournent à l'éq à l'angle S.E.
         Ils s’arrêtent juste avant la chaire du 2ème S. <br />
         Le 2d E lâche la m. du Cand. fait le pas, cale sa v. contre son ép. d.
-        et se met à l'ordre.{" "}
+        et se met à l'ordre.
       </p>
       <p>
         <b>2d E </b>: F. 2d S, je vous présente le F. X. à l'occasion de son
@@ -316,18 +303,15 @@ function page() {
         avez-vous quelque chose à communiquer ?{" "}
       </p>
       <p>
-        <b>Cand </b>:
-        <span className="com">
+        <b>Cand </b>: <span className="com">
           (Le 2d E. souffle à haute voie les réponses au Cand.){" "}
         </span>
         OUI.
       </p>
       <p>
-        <b>2d S </b>:
-        <span className="com">
+        <b>2d S </b>: <span className="com">
           (se lève, fait le p., le candidat lui donne l'at.. guider par le 2d
-          E.)
-        </span>
+          E.) </span>
         Qu'est-ce-que ceci ?
       </p>
       <p>
@@ -343,11 +327,9 @@ function page() {
         <b>2d S </b>: Donnez-moi ce m.
       </p>
       <p>
-        <b>Cand </b>:
-        <span className="com">
+        <b>Cand </b>: <span className="com">
           (Le 2e E souffle très vite et a haute vois)
-        </span>
-        A mon initiation, on m'a enseigné la p., je l'é. ou j'en d. la m. avec
+        </span> A mon initiation, on m'a enseigné la p., je l'é. ou j'en d. la m. avec
         vous.
       </p>
       <p>
@@ -369,14 +351,14 @@ function page() {
         <b>2d E </b>
         <span className="com">
           dit le mot en entier et haute voie le Cand. répète 
-        </span>XXXX.
+        </span> XXXX.
       </p>
       <p>
         <b>2d S </b>: Passez .........
       </p>
       <p className="com">
         Ce disant Le 2ème S. élève légèrement la m. du Cand. et la rend au 2d E. <br />
-        Par quelsque pas e coté ils se remettent en ligne sur la col.du M puis
+        Par quelsque pas de coté ils se remettent en ligne sur la col.du M puis
         partant du pied g. contourne l'angle SO. à l'éq. Ils s’arrêtent juste
         avant la chaire du 1er S. <br />
         Le 2d E lâche la m. du Cand. fait le pas cale sa verge dans le creux de
@@ -396,11 +378,9 @@ function page() {
         <b>1er S </b>: Qu’est-ce que cela ?
       </p>
       <p>
-        <b>Cand </b>:
-        <span className="com">
+        <b>Cand </b>: <span className="com">
           (Le 1e E souffle a haute voie les réponses)
-        </span>
-        Le p. p. r. en F.M.
+        </span> Le p. p. r. en F.M.
       </p>
       <p>
         <b>1er S </b>: Apportez-vous autre chose ?
@@ -452,10 +432,8 @@ function page() {
         <b>1er S </b>: Donnez-moi ce m.
       </p>
       <p>
-        <b>Cand </b>:
-        <span className="com">
-          (souffler très vite et haute voix par le 2d E.)
-        </span>
+        <b>Cand </b>: <span className="com">
+          (souffler très vite et haute voix par le 2d E.) </span>
         A mon initiation, on m'a recommandé la p., je l'é. ou j'en d. la m. avec
         vous.
       </p>
@@ -469,11 +447,9 @@ function page() {
         <b>1er S </b>: Ax
       </p>
       <p>
-        <b>Cand </b>:
-        <span className="com">
+        <b>Cand </b>:  <span className="com">
           ( Le 2d E. donne le mot à haute voix et le cand. répète)
-        </span>
-        B...Z
+        </span> B...Z
       </p>
       <p>
         <b>1er S </b>: D'où vient ce m. ?
@@ -486,16 +462,13 @@ function page() {
       <p>
         <b>1er S </b>: Quelle est la signification de ce m. ?
       </p>
-      <br />
-      <span>
+      <p>
         <b>Cand </b>: ............
-      </span>
+      </p>
       <p>
         <b>1er S </b>:
-        <span className="com">
-          (élève légèrement la main du cand et la rendant au 2d E. dit:)
-        </span>
-        Passez ......
+        <span className="com"> (élève légèrement la main du cand et la rendant au 2d E. dit:)
+        </span> Passez ......
       </p>
 
       <div><NavEmul /></div>

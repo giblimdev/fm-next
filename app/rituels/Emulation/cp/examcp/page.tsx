@@ -60,13 +60,13 @@ function page() {
 <b>Cand </b>: Le premier signifie e. f. le second étab., et accolés stab. Car Dieu a
   dit : « c'est f. que j'ét. Cette Mienne Demeure affermie à jamais »
 </p>
-<p><b>VM </b>: Ce sont là les questions d'usage.</p>
-Si quelque F. souhaite que j'en pose d'autres, je le ferai.<br />
-<span className="com"
+<p><b>VM </b>: Ce sont là les questions d'usage. <br />
+Si quelque F. souhaite que j'en pose d'autres, je le ferai.</p>
+<p className="com"
   >Les FF. n'ont pas à faire de commentaire. Le 1er E prend le Cand. par la main
   droite, lui soufflant de partir du pied Gauche et longeant la Col.du N. ,
-  conduit le Cand. à la droite du VM., Face au M., où ils font le P.<br
-/></span>
+  conduit le Cand. à la droite du VM., Face au M., où ils font le P.
+  </p>
 <p className="com">Il lui lâche la main et demeure à coté de lui.</p>
 
 <p>
@@ -75,9 +75,7 @@ Si quelque F. souhaite que j'en pose d'autres, je le ferai.<br />
   grade MM ?
 </p>
 <p>
-<b>1er E </b>:
-  <span className="com">souffle à haute voix au Cand. (qui répète) </span> Je m'y
-  engage.
+<b>1er E </b>: <span className="com">souffle à haute voix au Cand. (qui répète) </span> Je m'y engage.
 </p>
 
 <p><b>Cand </b>: Je m'y engage.</p>
@@ -87,29 +85,25 @@ Si quelque F. souhaite que j'en pose d'autres, je le ferai.<br />
   confier, avec la même extrême prudence que pour les autres Sec. de la M. ?
 </p>
 <p>
-<b>1er E </b>:
-  <span className="com">souffle à haute voix au Cand. (qui répète) </span> Je m'y
+<b>1er E </b>: <span className="com">souffle à haute voix au Cand. (qui répète) </span> Je m'y
   engage.
 </p>
 <p><b>Cand </b>: Je m'y engage.</p>
 <p>
   <b>VM </b>: Alors, je vais vous confier le moyen de démontrer votre aptitude, qui est
   un att. de passe et un mot de passe conduisant au Grade auquel vous
-  prétendez.<br />
-  <span className="com"
-    >Le VM se lève, fait le pas, face au Cand., lui prend la main droite et
-    ajuste le doigt du Cand. pendant qu'il donne l'explication.<br />
+  prétendez. </p>
+  <p className="com">Le VM se lève, fait le pas, face au Cand., lui prend la main droite et
+    ajuste le doigt du Cand. pendant qu'il donne l'explication. <br />
     L'att. de p. se donne par une l. p. du pouce entre la deuxième et la
     troisième jointure de la main.
-  </span>
-  <br />
+  </p>
+  <p>
   Cet att. de passe nécessite un mot de passe qui est T.........<br />
   <span className="com">Le VM. garde la main du Cand.</span>
 </p>
 <p>
-<b>1er E </b>:
-  <span className="com">souffle à haute voix au Cand. (qui répète)</span>
-  T........
+<b>1er E </b>: <span className="com">souffle à haute voix au Cand. (qui répète)</span> T........
 </p>
 <p><b>Cand </b>: T...........</p>
 <p>
@@ -117,9 +111,9 @@ Si quelque F. souhaite que j'en pose d'autres, je le ferai.<br />
   Possessions terrestre ou bien de ce monde. Ayez bien soin de vous souvenir de
   ce mot car, sans lui, vous ne pouvez être admis dans une L. d'un Grade
   supérieur.<br />
-  Passer T..........<br />
-  <span className="com">Le VM. rend la main du Cand. au 1er E.</span>
-</p>
+  Passer T..........</p>
+  <p className="com">Le VM. rend la main du Cand. au 1er E.</p>
+
 <p className="com">
   Le 1er E. conduit le Cand., en longeant la Colonne du N. à la gauche du 1er
   S., puis font demi-tour dans le sens des aiguilles d'une montre et font face

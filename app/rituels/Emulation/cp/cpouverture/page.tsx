@@ -29,16 +29,13 @@ function page() {
 <p><b>T </b>: -O-O-O-</p>
 <p>
 <b>C </b>:
-  <span className="com">
-    (Le Cp. revient à la gauche du 1er S, se met à l'ordre d'Ap. face à
+  <span className="com"> (Le Cp. revient à la gauche du 1er S, se met à l'ordre d'Ap. face à
     l'orient et tourne la tête vers le 2d. S.)
-  </span>
-  F. second surveillant, la L. est bien couverte.
+  </span> F. second surveillant, la L. est bien couverte.
   <span className="com"> (Puis fait le s. p. d'Ap.)</span>
 </p>
 <p>
-<b>2d S</b>: -O-O-O-
-  <span className="com">
+<b>2d S</b>: -O-O-O- <span className="com">
     (se met à l'ordre d'ap face au N. et tourne la tête vers le VM.)
   </span>
 </p>
@@ -80,8 +77,7 @@ function page() {
   Le 2d S fait le signe pénal d'Ap. puis fait le pas et se met a l'ordre de Cp.
 </p>
 <p>
-<b>VM </b>: Je reconnais l'exactitude des signes.
-  <span className="com">Le VM fait le pas et se met à l'ordre de Cp</span>.
+<b>VM </b>: Je reconnais l'exactitude des signes. <span className="com">Le VM fait le pas et se met à l'ordre de Cp</span>.
 </p>
 <p>
 <b>VM </b>: Avant d'ouvrir la L. au Deuxième Grade, supplions le Grand Géomètre de

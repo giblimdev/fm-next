@@ -5,14 +5,15 @@ function page() {
   return (
     <div>
       <h1>PLANCHE TRACEE DU 3ème GRADE</h1>
+      <br />
       <Image
         className="planche m-auto"
-        src="/emulation/tableau-3eme.jpg"
+        src="/tableau-3eme.jpg"
         alt="plache du premier grade"
         width={500}
         height={300}
       />
-
+<br />
       <p className="com">
         Le PMI. donne le Cr. au VM. et tient la pl. tr., de telle manière que le
         VM. puisse avec le Cr. montrer au Cand. les différents symboles tandis

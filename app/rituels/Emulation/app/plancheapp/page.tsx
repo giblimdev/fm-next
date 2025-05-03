@@ -14,6 +14,7 @@ function page() {
       />
       <div>
         <div>
+          <br />
           <p>
             Les us et coutumes des F.M. ont toujours eu une grande affinité avec
             ceux des anciens Égyptiens. Leurs philosophes, ne voulant pas
@@ -108,8 +109,6 @@ function page() {
             noms de Sagesse, Force et Beauté, nous leur donnons les noms des
             plus célèbres qui sont : l'Ionique, le Dorique et le Corinthien.
           </p>
-        </div>
-        <div>
           <p>
             Une L. de F.M. est couverte d'un baldaquin céleste de différentes
             couleurs comme la voûte du ciel. Le moyen par lequel nous espérons y
@@ -136,8 +135,6 @@ function page() {
             réguliers sans lequel aucune L. ne peut être parfaite, ni un
             candidat légalement initié dans l'Ordre.
           </p>
-        </div>
-        <div>
           <p>
             L'intérieur d'une L. de F.M. comporte des Ornements, des Bijoux et
             des Joyaux.
@@ -157,7 +154,7 @@ function page() {
             Dentelée nous rappelle les planètes qui, dans leurs diverses
             révolutions, forment une merveilleuse bordure autour de ce grand
             luminaire, le Soleil, comme la dentelure mosaïque autour d'une loge
-            de FF.MM.
+            de FF. MM.
           </p>
           <p>
             Les Bijoux de la L. sont : le V.S.L., le C. et l'Eq. Les S. E.
