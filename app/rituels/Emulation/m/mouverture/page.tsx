@@ -113,12 +113,12 @@ function page() {
     (Le VM fait le signe sans recouvrir, imité par tous les FF.) </span>
   … sur le Centre aux fins que s'assigne la FM. au Troisième Grade.
 </p>
-<p><b>V.M </b>: (- OO - O -)</p>
-<p><b>1er S </b>: (- OO - O -)</p>
-<p><b>2d S </b>: (- OO - O -)</p>
+<p><b>V.M </b>: - OO - O -</p>
+<p><b>1er S </b>: - OO - O -</p>
+<p><b>2d S </b>: - OO - O -</p>
 <p className="com">
   Alors seulement le 2d E change la planche tracée, le C va à la porte et
-  frappe les coups (-OO-O-), le T. répond (-OO-O-), le C revient a sa place.
+  frappe les coups - OO - O -, le T. répond - OO - O -, le C revient a sa place.
   <br />
   Le PMI dispose l'Eq et le C. et regagne sa place. <br />
   Tous les FF. prennent la position du 3ème p. rég.
