@@ -112,9 +112,9 @@ function page() {
       <p className="com">
         Le cand S’agenouille. Le 1er E s'assure qu'il fait le signe de Foi.
       </p>
-      <p><b>M </b>: (-O-)</p>
-      <p><b>1er S </b>: (-O-)</p>
-      <p><b>2d S </b>: (-O-)</p>
+      <p><b>M </b>: - O -</p>
+      <p><b>1er S </b>: - O -</p>
+      <p><b>2d S </b>: - O -</p>
       <p className="com">
         Tous les FF. se lève en même temps que le VM et font le s. de foi. Les
         EE tiennent leur verge de la main g.et les croisent au-dessus du Cand
