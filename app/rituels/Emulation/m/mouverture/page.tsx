@@ -7,9 +7,9 @@ function page() {
       
 <h2>OUVERTURE AU TROISIEME GRADE</h2>
 <p className="com">Après s'être assuré de la sortie des Cp.</p>
-<p><b>VM </b>: (-O-)</p>
-<p><b>1er S </b>: (-O-)</p>
-<p><b>2d S </b>: (-O-)</p>
+<p><b>VM </b>: - O -</p>
+<p><b>1er S </b>: - O -</p>
+<p><b>2d S </b>: - O -</p>
 <p><b>VM </b>: Mes FF. unissez-vous à moi pour ouvrir la L. au troisième Grade.</p>
 <p className="com">
   Le VM se lève et tous les FF. l'imitent en se réglant sur lui.
@@ -25,11 +25,11 @@ function page() {
   que la L. est bien couverte.
 </p>
 <p>
-<b>C </b>: <span className="com">(Va à la porte)</span> (-O-OO-)
+<b>C </b>: <span className="com">(Va à la porte)</span> - O - OO -
   <span className="com"> (sauf si un Cand. est à l'extérieur) </span>
 </p>
 <p>
-<b>T </b>: <span className="com">(Répond)</span> (-O-OO-)
+<b>T </b>: <span className="com">(Répond)</span> - O - OO -
   <span className="com"> (sauf si un Cand. est à l'extérieur) </span>
 </p>
 <p>
@@ -38,7 +38,7 @@ function page() {
     vers le 2d S et dit : </span> F. Second Surveillant, la L. est bien couverte. Il fait le signe pénal.
 </p>
 <p>
-<b>2d S </b>: (-O-OO-) <span className="com"> (Il se lève, fait le pas, et se met à l'ordre des Cp., tourne la tête vers le VM)</span> VM, la Loge est bien couverte. <span className="com">Puis il fait le signe pénale Cp. et s’assoit.</span>
+<b>2d S </b>: - O - OO - <span className="com"> (Il se lève, fait le pas, et se met à l'ordre des Cp., tourne la tête vers le VM)</span> VM, la Loge est bien couverte. <span className="com">Puis il fait le signe pénale Cp. et s’assoit.</span>
 </p>
 <p><b>VM </b>: F. 1er Surveillant, qu'elle est le second devoir ?</p>
 <p><b>1er S </b>: De s’assurer que les frères se tiennent à l'ordre de Cp.</p>

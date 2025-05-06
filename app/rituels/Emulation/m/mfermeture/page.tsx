@@ -6,9 +6,9 @@ function page() {
     <div>
       <h1>FERMETURE AU TROISIEME GRADE</h1>
 
-<p>V.M. : -O-</p>
-<p>1er S : -O-</p>
-<p>2d S : -O-</p>
+<p>V.M. : - O -</p>
+<p>1er S : - O -</p>
+<p>2d S : - O -</p>
 <p>VM : Mes FF. unissez-vous à moi pour fermer la L. au troisième Grade.</p>
 <p className="com">
 Le VM se lève et les FF. l’imitent, dans un même mouvement.</p>
@@ -110,15 +110,15 @@ Le VM se lève et les FF. l’imitent, dans un même mouvement.</p>
 <b>VM </b>: F. 1er S, les travaux de ce Grade étant terminés, je vous commende de
   fermer la L.
 </p>
-<p><b>VM </b>: -OO-O- <span className="com">(de la m. g.)</span></p>
+<p><b>VM </b>: - OO - O - <span className="com">(de la m. g.)</span></p>
 <p>
 <b>1er S </b>: Mes FF. au nom du Très HAUT, et par ordre du VM. Je ferme...
   <span className="com"> (Il fait le s.p. de MM., et tous les FF. l’imitent simultanément)</span
   ><br />
-  ... cette Loge de MM. -OO-O-
+  ... cette Loge de MM. - OO - O -
 </p>
-<p><b>2d S </b>: Les travaux sont donc fermés. -OO-O-</p>
-<p><b>C </b>: <span className="com">(va à la porte)</span> -OO-O-</p>
+<p><b>2d S </b>: Les travaux sont donc fermés. - OO - O -</p>
+<p><b>C </b>: <span className="com">(va à la porte)</span> - OO - O -</p>
 <p><b>T </b>: -OO-O-, <span className="com">le C. reviens à sa place.</span></p>
 <p className="com">Le 2d E change la pl. tr.</p>
 <p className="com">Le PMI arrange l'Eq. et le C.</p>

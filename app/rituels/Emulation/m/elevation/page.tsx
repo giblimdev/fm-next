@@ -286,9 +286,9 @@ function page() {
         aiguille d'une montre à g. de la chaire du 1er S. Ils font face au VM.,
         le cand étant placé entre les EE, Le 2d E à g.
       </p>
-      <p><b>VM </b>: (-O-)</p>
-      <p><b>1er S </b>: (-O-)</p>
-      <p><b>2d S </b>: (-O-)</p>
+      <p><b>VM </b>: - O -</p>
+      <p><b>1er S </b>: - O -</p>
+      <p><b>2d S </b>: - O -</p>
       <p>
         <b>VM </b>: Les FF. sont prévenus, que le F …..., qui a été régulièrement
         initié dans la FM. et passé au Grade de Cp., va passer devant eux pour
@@ -447,12 +447,12 @@ function page() {
       <p className="com">
         Le VM s'assure que les mains du Cand. ne sont pas sur l'Eq. et le C.
       </p>
-      <p><b>VM </b>: (-O-)</p>
-      <p><b>1er S </b>: (-O-)</p>
-      <p><b>2d S </b>: (-O-)</p>
+      <p><b>VM </b>: - O -</p>
+      <p><b>1er S </b>: - O -</p>
+      <p><b>2d S </b>: - O -</p>
       <p className="com">
         Le VM se lève et tous les FF. l’imitent. <br />
-        Tous font le p. et se mettent à l'o. de MM. en se réglant sur le VM.{" "}
+        Tous font le p. et se mettent à l'o. de MM. en se réglant sur le VM.
         <br />
         Les EE. tiennent leurs V. de la main g.et les croisent au-dessus du
         Cand. (en étant à l'o.)
