@@ -221,7 +221,7 @@ function page() {
         </span> … en plaçant le p. de la m. d. à l'éq. sur la pr. jointure de la m. d.
         de votre vis-à-vis. <br />
         <span className="com">
-          Le VM Conserve lam. du Cand. pendant ce qui va suivre. </span>
+          Le VM Conserve la m. du Cand. pendant ce qui va suivre. </span>
         Cet att., donné et reçu selon les règles, sert à reconnaître un F. dans
         les t. aussi bien qu'en p. j. Cet at. ou g. demande un m., m. hautement
         estimé parmi les M. car il est la sauvegarde de leurs privilèges. C'est

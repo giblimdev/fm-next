@@ -165,7 +165,7 @@ function page() {
         <p>
           Toujour veillant sur nos traveau, <br />
           Dieu d'Amour et de Lumière, <br />
-          Viens b"nir les Frères dévots, <br />
+          Viens bénir les Frères dévots, <br />
           Jusqu'à leur heure dernière.
         </p>
         <br />

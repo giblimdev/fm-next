@@ -510,10 +510,8 @@ function page() {
         <br />
         F. …........., je vous nomme mon Premier Surveillant et vous investis en
         conséquence, des insignes de votre charge.
-        <span className="com">
-          Le DCI. tend au VM. Le Col. celui-ci le passe autour du cou du 1er S.
-          prend le bijou, puis dit :
-        </span>
+        <span className="com"> Le DCI. tend au VM. Le Col. celui-ci le passe autour du cou du 1er S.
+          prend le bijou : </span>
         Le Niv. étant l'emblème de l'égalité, symbolise l'égalité en L., qu'il
         est de votre devoir de faire régner, en accord avec moi, pour bien régir
         et gouverner cette dernière. <br />
@@ -522,10 +520,7 @@ function page() {
         En conséquence, je place dans votre main ce Ma. pour vous habiliter à
         m'assister pour faire régner l'ordre dans la L., plus particulièrement à
         l'Oc.
-        <span className="com">
-          Il donne le Ma. au 1er S.
-          <br />
-        </span>
+        <span className="com"> Il donne le Ma. au 1er S. </span>
         Je vous présente également la Co., correspondant à votre fonction, que
         vous placerez debout quand la L. est ouverte, afin d'indiquer aux FF.
         que la L. vaque aux travaux Maçonniques. Votre place est à l'Oc., votre

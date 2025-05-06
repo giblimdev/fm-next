@@ -203,12 +203,11 @@ function page() {
       </p>
       <p>
         <b>2d S </b>: Comment espère-t-il obtenir ces privilèges ?
-      </p>
-           
-      <span>
+      </p>   
+      <p>
         <b>2d E </b>: Avec l'aide de Dieu, car il est né libre et il est de
         bonne renommée.
-      </span>
+      </p>
       <br />
       <span className="com">
         2d S se lève, le 2d E. place la main d.du cand. dans la m.d. du 2d S.
@@ -287,6 +286,7 @@ function page() {
         Le 1er S fait le s. p. d'Ap. et rend la m. d. du Cand. au 2ème E. qui
         est revenu à la d. du Cand. puis s'assoit.
       </p>
+      <p>
       <span className="vm">
         <b>VM </b> : <span className="com"> (au Cand.) </span> Déclarez-vous
         sincèrement sur votre honneur que vous n'avez été entraîné, contre votre
@@ -295,13 +295,13 @@ function page() {
         autre motif indigne, mais que vous vous présentez librement et
         volontairement comme candidat aux mystères et privilèges de la F.M. ?
       </span>
-      <br />
-      <span>
+      </p>
+      <p>
         <b>Cand </b>:
         <span className="com"> (Soufflé par le 2ème E. si nécessaire) </span> Je
         le déclare.
-      </span>
-      <br />
+      </p>
+      <p>
       <span className="vm">
         <b>VM </b>: Donnez-nous aussi votre parole d'honneur que vous avez été
         conduit à solliciter ces privilèges par une opinion favorable que vous
@@ -309,37 +309,34 @@ function page() {
         instruire et la volonté sincère de vous rendre plus utile à vos
         semblables ?
       </span>
-      <br />
-      <span>
+      </p>
+      <p>
         <b>Cand</b> : <span className="com"> (Soufflé par le 2ème E.) </span>
         J'en donne ma parole d'honneur.
-      </span>
-      <br />
-      <span className="vm">
+        </p>
+<p>      <span className="vm">
         <b>VM </b>: Déclarez-vous également sur votre honneur que, sans
         crainte, et en même temps sans témérité, vous persévérerez sans
         défaillance tout au long de la cérémonie de votre initiation et que, si
         finalement vous êtes reçu, vous agirez conformément aux us et coutumes
         de l'Ordre ?
       </span>
-      <br />
-      <span>
+      </p>
+      <p>
         <b>Cand </b>: <span className="com"> (Soufflé par le 2ème E.) </span> Je
         le déclares
-      </span>
-      <br />
-      <span className="vm">
+      </p>
+      <p><span className="vm">
         <b>VM </b>: F. 1er S.,
         <span className="com"> (le 1er S. reste assis) </span> Veuillez ordonner
         au 2ème E. d'enseigner au candidat la manière traditionnelle de
         s'avancer vers l'A.
       </span>
-      <br />
-      <span>
+      </p>
+      <p>
         <b>1er S </b>: F. 2d E., par ordre du V.M., veuillez enseigner au
         candidat la manière traditionnelle de s'avancer vers l'A.
-      </span>
-      <br />
+      </p>
       <p className="com">
         Le 2ème E conduit le candidat à une distance convenable de la Chaire du
         V.M. et dit au Cand. à mi-voix :
@@ -348,7 +345,6 @@ function page() {
         <b>2d E </b>: Veuillez placez vos d. p. l'un contre l'autre. Faites
         faire à vos. p. d. un quart de t. de manière à f. une éq.{" "}
       </p>
-      
       <p className="com">
         Puis faisant le p. avec le Cand. dit à haute voix
       </p>
