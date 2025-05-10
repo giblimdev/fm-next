@@ -42,6 +42,7 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-gradient-to-b from-blue-50 to-indigo-100 p-8 pb-20">
       <header className="text-center mb-12">
+        <p>10/05/2025</p>
         <h1 className="text-4xl font-bold text-indigo-800 mb-4">
           Rituels Maçonniques
         </h1>

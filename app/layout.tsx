@@ -30,12 +30,13 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         <div className="fixed top-0 left-0 w-full z-50">
-<Header/>
-</div>
-  <div className="md:flex justify-between items-center m-5 mt-36">
-      <div className="h-screen items-center align-middle m-5">{children}</div>
-  </div> 
-      
+          <Header />
+        </div>
+        <div className="md:flex justify-between items-center m-5 mt-36">
+          <div className="h-screen items-center align-middle m-5">
+            {children}
+          </div>
+        </div>
       </body>
     </html>
   );
