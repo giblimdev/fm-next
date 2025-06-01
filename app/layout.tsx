@@ -33,7 +33,7 @@ export default function RootLayout({
           <Header />
         </div>
         <div className="md:flex justify-between items-center m-5 mt-36">
-          <div className="h-screen items-center align-middle m-5">
+          <div className="h-screen items-center align-middle m-5 flex-1">
             {children}
           </div>
         </div>
