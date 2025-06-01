@@ -88,6 +88,11 @@ export const listEmul = [
     auth: "emulm",
   },
   {
+    url: "/rituels/Emulation/m/investiture",
+    link: "Investiture du colège",
+    auth: "emulm",
+  },
+  {
     url: "/rituels/Emulation/m/iexhortations",
     link: "Exhortations",
     auth: "emulapp",
