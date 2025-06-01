@@ -111,21 +111,23 @@ function page() {
         leur Obligation. <br />
         <span className="com">Le VM. prend le Ma. </span>
         <br />
-        Je place, en conséquence, dans votre main ce Ma... <br />
-        <span className="com">(il le donne au 2d S.) … </span>
+        Je place, en conséquence, dans votre main ce Maillet <br />
+        <span className="com"> (il le donne au 2d S.) </span>
         emblème du pouvoir, pour vous habiliter à m'assister ainsi que votre F.
         1er S., pour faire régner l'ordre dans la L., plus particulièrement au
-        M.
+        Midi.
         <br />
         Je vous présente également la Co. correspondant à votre fonction, que
-        vous placerez couchée horizontalement lorsque les travaux de la L.
-        seront ouverts, et debout lorsque la L. sera appelée du travail au repos{" "}
-        <span className="com">(il lui donne la Co.) </span>
+        vous placerez couchée horizontalement lorsque les travaux de la Loge
+        seront ouverts, et debout lorsque la Loge sera appelée du travail au repos 
+        <span className="com">(il lui donne la Co.) </span> <br />
         Cet article se trouvant commis à votre ministère immédiat, car vous êtes
-        l'intendant de la L. Votre place est au M., votre devoir est de
-        symboliser le Soleil à la méridienne et d'appeler les FF. du travail au
+        l'intendant de la Loge.<br /> 
+        Votre place est au Midi, votre devoir est de
+        symboliser le Soleil à la méridienne et d'appeler les Frères du travail au
         repos et du repos au travail, pour leurs plus grand profit et plaisir.
-        <span className="com">
+      </p>
+        <p className="com">
           Le VM. serre la main du 2d. S. puis s'assied. <br />
           Le DCI. conduit directement le 2d S. à sa chaire, où il entre par le
           d., tandis que le 2d SI. la quitte par la g. <br />
@@ -134,8 +136,8 @@ function page() {
           <br />
           Puis le DCI. vient se placer à distance convenable de la chaire du VM.
           fait le p., cales sa v., se met à l'o. d'Ap. et dit :
-        </span>
-      </p>
+        </p>
+
       <p>
         <b>DCI</b> : VM., qui nommez-vous votre Hospitalier. ? <br />
         <b>VM</b> : Le F. ............ <br />
@@ -145,6 +147,8 @@ function page() {
           partant du p.g., le conduit à d. (ou à la g.) de la chaire du VM.
         </span>
       </p>
+
+
       <p>
         <b>VM</b> : F. …......, je vous nomme Hospitalier de la L. et vous
         investis, en conséquence de l'insigne de votre charge. <br />
@@ -152,62 +156,101 @@ function page() {
           Il lui passe le Col. que lui tend le DCI.
           <br />
           Le VM peut encore prononcer quelques mots à sa discrétion, puis le
-          DCI. conduit l'Hospitalier à un siège. Il revient face à la chaire du
+          DCI. conduit l'Hospitalier à un siège. <br />
+          Il revient face à la chaire du
           VM, fait le p. cale sa v. se met à l'o. et dit :
         </span>
-        <br />
+        </p>
+
+
+
+
+        <p>
         <b> DCI</b> : Le F........... ayant été élu Trésorier, vous plairait-il
         de l'investir?
-        <br />
-        <b>VM</b> : Oui.
-        <span className="com"> (Le Trés. élu se lève et attend).</span>
-        <br />
+        </p>
+        <p>
+        <b>VM</b> : Oui.</p>
+        <p className="com"> (Le Trés. élu se lève et attend).</p>
+        <p>
         <b>VM</b> : F ............, Vous êtes l'élu de la L. et j'ai le plaisir
         de vous investir des insignes de votre charge : une clef suspendue à un
         col.
-        <br />
-        <span className="com">
-          Le DCI. procède ensuite comme précédemment pour les nominations
-          suivantes.
-          <br />A chacun, le VM. Tiens le discours suivant :
-        </span>
-        <br />
+        </p>
+   
+   
+   <p className="com">
+Le DCI procède ensuite comme précédement pour les nominations suivante. <br />
+A chacun Le VM tient le discours suivant : 
+   </p>
+   
+   <p className="com">Au Secrètaire</p>
+        <p>
         <b>VM</b> : Le F. ............., je vous nomme Sec. de la L. et je vous
         investis des insignes de votre charge : deux plumes en sautoir. <br />
+   </p>
+   
+        <p className="com">Au DC</p>
+        <p>
+          <b>VM </b>: je vous Directeur des Cérémonies de la Loge t vous investis des insignes de votre charge 
+
+        </p>
+        <p className="com">Le DCI peut alors laisser officier le nouveau DC.</p>
+   
+   
+   <p className="com">Au Premier Expert</p>
+   <p>
         <b>VM</b> : F. …...., je vous nomme Premier Expert de la L. et je vous
         investis des insignes de votre charge : une colombe portant un rameau
-        d'olivier. Votre place est à ma d., votre devoir est de porter mes
-        messages et ordres au 1er S. et d'attendre le retour du 2d E. Vous devez
-        aussi veiller sur les Cand. pendant les cérémonies de Passage et
-        d’Élévation. C'est pourquoi, je vous confie cette v., emblème de votre
+        d'olivier. <br />
+        Votre place est à ma d., votre devoir est de porter mes
+        messages et ordres au 1er S. et d'attendre le retour du 2d E. <br />
+        Vous devez aussi veiller sur les Cand. pendant les cérémonies de Passage et
+        d’Élévation. <br />
+        C'est pourquoi, je vous confie cette v., emblème de votre
         charge, et je suis persuadé que vous mettrez à remplir vos devoirs, tous
-        les soins et tout le Zèle qu'elle exige. <br />
+        les soins et tout le Zèle qu'elle exige. 
+        </p>
+        
+   <p className="com">Au Second Expert</p>     
+        <p>
         <b>VM</b> : F. …...., je vous nomme Second Expert de la L. et je vous
         investis des insignes de votre charges : une colombe portant un rameau
         d'olivier, identique à celui du 1er Expert.
         <br />
         Votre place est à la d. du 1er S., votre devoir est de porter tous mes
         messages et communication du 1er S. au 2d S. et de veiller à leur
-        exécution. Vous devez aussi veiller sur les Cand. pendant la cérémonie
+        exécution. <br />
+        Vous devez aussi veiller sur les Cand. pendant la cérémonie
         d'Initiation et seconder votre F. 1er E. pendant les cérémonies de
         Passage et d’Élévation.
         <br />
         C'est pourquoi, je remets entre vos mains cette v. emblème de votre
         charge, dont vous remplirez tous les devoir, je n'en doute pas avec zèle
-        et habilité. <br />
-        <span className="com">
-          Le autres Off. sont installé selon la formule suivante
-        </span>
-        <br />
+        et habilité. </p>
+        
+          <p className="com">
+Aux autes Officiers :        </p>
+        <p>
         <b> VM. </b>: F. …......., je vous nomme …...... de la L. et vous
-        investis, en conséquence, des insignes de votre charge. <br />
+        investis, en conséquence, des insignes de votre charge. 
+        </p>
+        <p className="com">
+        Au Couvreur : 
+        </p>
         <b>VM</b> : F. …......, je vous nomme Couvreur de la L. et je vous
         investis des insignes de votre charge : deux épées en sautoir. Votre
         place est à l'intérieure, à l'entrée de la L. votre devoir est d'avertir
         le VM. lorsque les FF. demandent l'entrée de la L., d'admettre les M.
         qui ont été t., de recevoir les Cand. en due forme et d'obéir aux ordres
         du 2d. S.
-        <br />
+
+<p className="com">Au Tuileur : <br />
+Le Garde Ext est le dernier officicier à être investi. <br />
+Le DC n'a pas a poser la qu'estion au VM.
+
+</p>
+        <p>
         <b>VM</b> : -00- <span className="com">(rapprochés)</span>. <br />
         <span className="com">
           {" "}
@@ -239,7 +282,8 @@ function page() {
           Le T. se rend directement à la g. du 1er S., fait face au VM. puis
           fait le p. et le s. p. d'Ap. Le C. ouvre la porte et le T. sort.
         </span>
-      </p>
+        </p>
+      
       <div>
         <NavEmul />
       </div>
